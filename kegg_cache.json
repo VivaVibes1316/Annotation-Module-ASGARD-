@@ -1,0 +1,4774 @@
+{
+  "K02313": {
+    "id": "K02313",
+    "name": "chromosomal replication initiator protein"
+  },
+  "K02338": {
+    "id": "K02338",
+    "name": "DNA polymerase III subunit beta [EC:2.7.7.7]"
+  },
+  "K14761": {
+    "id": "K14761",
+    "name": "ribosome-associated protein"
+  },
+  "K03629": {
+    "id": "K03629",
+    "name": "DNA replication and repair protein RecF"
+  },
+  "K02470": {
+    "id": "K02470",
+    "name": "DNA gyrase subunit B [EC:5.6.2.2]"
+  },
+  "K02469": {
+    "id": "K02469",
+    "name": "DNA gyrase subunit A [EC:5.6.2.2]"
+  },
+  "K07727": {
+    "id": "K07727",
+    "name": "putative transcriptional regulator"
+  },
+  "K01677": {
+    "id": "K01677",
+    "name": "fumarate hydratase subunit alpha [EC:4.2.1.2]"
+  },
+  "K01678": {
+    "id": "K01678",
+    "name": "fumarate hydratase subunit beta [EC:4.2.1.2]"
+  },
+  "K00655": {
+    "id": "K00655",
+    "name": "1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51]"
+  },
+  "K01537": {
+    "id": "K01537",
+    "name": "P-type Ca2+ transporter type 2C [EC:7.2.2.10]"
+  },
+  "K06373": {
+    "id": "K06373",
+    "name": "spore maturation protein A"
+  },
+  "K01273": {
+    "id": "K01273",
+    "name": "membrane dipeptidase [EC:3.4.13.19]"
+  },
+  "K06374": {
+    "id": "K06374",
+    "name": "spore maturation protein B"
+  },
+  "K24967": {
+    "id": "K24967",
+    "name": "GntR family transcriptional regulator, N-acetylglucosamine utilization regulator"
+  },
+  "K10440": {
+    "id": "K10440",
+    "name": "ribose transport system permease protein"
+  },
+  "K10439": {
+    "id": "K10439",
+    "name": "ribose transport system substrate-binding protein"
+  },
+  "K01619": {
+    "id": "K01619",
+    "name": "deoxyribose-phosphate aldolase [EC:4.1.2.4]"
+  },
+  "K10793": {
+    "id": "K10793",
+    "name": "D-proline reductase (dithiol) PrdA [EC:1.21.4.1]"
+  },
+  "K01874": {
+    "id": "K01874",
+    "name": "methionyl-tRNA synthetase [EC:6.1.1.10]"
+  },
+  "K03340": {
+    "id": "K03340",
+    "name": "diaminopimelate dehydrogenase [EC:1.4.1.16]"
+  },
+  "K03424": {
+    "id": "K03424",
+    "name": "TatD DNase family protein [EC:3.1.21.-]"
+  },
+  "K02528": {
+    "id": "K02528",
+    "name": "16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase [EC:2.1.1.182]"
+  },
+  "K01647": {
+    "id": "K01647",
+    "name": "citrate synthase [EC:2.3.3.1]"
+  },
+  "K00059": {
+    "id": "K00059",
+    "name": "3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]"
+  },
+  "K07484": {
+    "id": "K07484",
+    "name": "transposase"
+  },
+  "K07699": {
+    "id": "K07699",
+    "name": "two-component system, response regulator, stage 0 sporulation protein A"
+  },
+  "K07273": {
+    "id": "K07273",
+    "name": "lysozyme"
+  },
+  "K07720": {
+    "id": "K07720",
+    "name": "two-component system, response regulator YesN"
+  },
+  "K07718": {
+    "id": "K07718",
+    "name": "two-component system, sensor histidine kinase YesM [EC:2.7.13.3]"
+  },
+  "K02058": {
+    "id": "K02058",
+    "name": "simple sugar transport system substrate-binding protein"
+  },
+  "K02056": {
+    "id": "K02056",
+    "name": "simple sugar transport system ATP-binding protein [EC:7.5.2.-]"
+  },
+  "K02057": {
+    "id": "K02057",
+    "name": "simple sugar transport system permease protein"
+  },
+  "K08094": {
+    "id": "K08094",
+    "name": "6-phospho-3-hexuloisomerase [EC:5.3.1.27]"
+  },
+  "K18349": {
+    "id": "K18349",
+    "name": "two-component system, OmpR family, response regulator VanR"
+  },
+  "K18350": {
+    "id": "K18350",
+    "name": "two-component system, OmpR family, sensor histidine kinase VanS [EC:2.7.13.3]"
+  },
+  "K03547": {
+    "id": "K03547",
+    "name": "DNA repair protein SbcD/Mre11"
+  },
+  "K00948": {
+    "id": "K00948",
+    "name": "ribose-phosphate pyrophosphokinase [EC:2.7.6.1]"
+  },
+  "K02315": {
+    "id": "K02315",
+    "name": "DNA replication protein DnaC"
+  },
+  "K01924": {
+    "id": "K01924",
+    "name": "UDP-N-acetylmuramate--alanine ligase [EC:6.3.2.8]"
+  },
+  "K00975": {
+    "id": "K00975",
+    "name": "glucose-1-phosphate adenylyltransferase [EC:2.7.7.27]"
+  },
+  "K06412": {
+    "id": "K06412",
+    "name": "stage V sporulation protein G"
+  },
+  "K06180": {
+    "id": "K06180",
+    "name": "23S rRNA pseudouridine1911/1915/1917 synthase [EC:5.4.99.23]"
+  },
+  "K07301": {
+    "id": "K07301",
+    "name": "cation:H+ antiporter"
+  },
+  "K01881": {
+    "id": "K01881",
+    "name": "prolyl-tRNA synthetase [EC:6.1.1.15]"
+  },
+  "K00974": {
+    "id": "K00974",
+    "name": "tRNA nucleotidyltransferase (CCA-adding enzyme) [EC:2.7.7.72 3.1.3.- 3.1.4.-]"
+  },
+  "K01835": {
+    "id": "K01835",
+    "name": "phosphoglucomutase [EC:5.4.2.2]"
+  },
+  "K03530": {
+    "id": "K03530",
+    "name": "DNA-binding protein HU-beta"
+  },
+  "K13052": {
+    "id": "K13052",
+    "name": "cell division protein DivIC"
+  },
+  "K06382": {
+    "id": "K06382",
+    "name": "stage II sporulation protein E [EC:3.1.3.16]"
+  },
+  "K04075": {
+    "id": "K04075",
+    "name": "tRNA(Ile)-lysidine synthase [EC:6.3.4.19]"
+  },
+  "K00760": {
+    "id": "K00760",
+    "name": "hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]"
+  },
+  "K03798": {
+    "id": "K03798",
+    "name": "cell division protease FtsH [EC:3.4.24.-]"
+  },
+  "K01187": {
+    "id": "K01187",
+    "name": "alpha-glucosidase [EC:3.2.1.20]"
+  },
+  "K01265": {
+    "id": "K01265",
+    "name": "methionyl aminopeptidase [EC:3.4.11.18]"
+  },
+  "K21071": {
+    "id": "K21071",
+    "name": "ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase [EC:2.7.1.11 2.7.1.90]"
+  },
+  "K02343": {
+    "id": "K02343",
+    "name": "DNA polymerase III subunit gamma/tau [EC:2.7.7.7]"
+  },
+  "K09747": {
+    "id": "K09747",
+    "name": "nucleoid-associated protein EbfC"
+  },
+  "K06187": {
+    "id": "K06187",
+    "name": "recombination protein RecR"
+  },
+  "K02529": {
+    "id": "K02529",
+    "name": "LacI family transcriptional regulator, galactose operon repressor"
+  },
+  "K00616": {
+    "id": "K00616",
+    "name": "transaldolase [EC:2.2.1.2]"
+  },
+  "K00615": {
+    "id": "K00615",
+    "name": "transketolase [EC:2.2.1.1]"
+  },
+  "K06950": {
+    "id": "K06950",
+    "name": "uncharacterized protein"
+  },
+  "K01193": {
+    "id": "K01193",
+    "name": "beta-fructofuranosidase [EC:3.2.1.26]"
+  },
+  "K23876": {
+    "id": "K23876",
+    "name": "(R)-2-hydroxyacyl-CoA dehydratese activating ATPase [EC:5.6.1.9]"
+  },
+  "K04763": {
+    "id": "K04763",
+    "name": "integrase/recombinase XerD"
+  },
+  "K02035": {
+    "id": "K02035",
+    "name": "peptide/nickel transport system substrate-binding protein"
+  },
+  "K02033": {
+    "id": "K02033",
+    "name": "peptide/nickel transport system permease protein"
+  },
+  "K02034": {
+    "id": "K02034",
+    "name": "peptide/nickel transport system permease protein"
+  },
+  "K02031": {
+    "id": "K02031",
+    "name": "peptide/nickel transport system ATP-binding protein"
+  },
+  "K10795": {
+    "id": "K10795",
+    "name": "D-proline reductase (dithiol)-stabilizing protein PrdD"
+  },
+  "K10796": {
+    "id": "K10796",
+    "name": "D-proline reductase (dithiol)-stabilizing protein PrdE"
+  },
+  "K03169": {
+    "id": "K03169",
+    "name": "DNA topoisomerase III [EC:5.6.2.1]"
+  },
+  "K10441": {
+    "id": "K10441",
+    "name": "ribose transport system ATP-binding protein [EC:7.5.2.7]"
+  },
+  "K01599": {
+    "id": "K01599",
+    "name": "uroporphyrinogen decarboxylase [EC:4.1.1.37]"
+  },
+  "K05601": {
+    "id": "K05601",
+    "name": "hydroxylamine reductase [EC:1.7.99.1]"
+  },
+  "K02027": {
+    "id": "K02027",
+    "name": "multiple sugar transport system substrate-binding protein"
+  },
+  "K02025": {
+    "id": "K02025",
+    "name": "multiple sugar transport system permease protein"
+  },
+  "K02026": {
+    "id": "K02026",
+    "name": "multiple sugar transport system permease protein"
+  },
+  "K06897": {
+    "id": "K06897",
+    "name": "7,8-dihydropterin-6-yl-methyl-4-(beta-D-ribofuranosyl)aminobenzene 5'-phosphate synthase [EC:2.5.1.105]"
+  },
+  "K10117": {
+    "id": "K10117",
+    "name": "raffinose/stachyose/melibiose transport system substrate-binding protein"
+  },
+  "K23253": {
+    "id": "K23253",
+    "name": "PucR family transcriptional regulator, proline-responsive transcriptional activator"
+  },
+  "K03686": {
+    "id": "K03686",
+    "name": "molecular chaperone DnaJ"
+  },
+  "K08600": {
+    "id": "K08600",
+    "name": "sortase B [EC:3.4.22.71]"
+  },
+  "K02990": {
+    "id": "K02990",
+    "name": "small subunit ribosomal protein S6"
+  },
+  "K03111": {
+    "id": "K03111",
+    "name": "single-strand DNA-binding protein"
+  },
+  "K02963": {
+    "id": "K02963",
+    "name": "small subunit ribosomal protein S18"
+  },
+  "K00784": {
+    "id": "K00784",
+    "name": "ribonuclease Z [EC:3.1.26.11]"
+  },
+  "K15533": {
+    "id": "K15533",
+    "name": "1,3-beta-galactosyl-N-acetylhexosamine phosphorylase [EC:2.4.1.211]"
+  },
+  "K02564": {
+    "id": "K02564",
+    "name": "glucosamine-6-phosphate deaminase [EC:3.5.99.6]"
+  },
+  "K10118": {
+    "id": "K10118",
+    "name": "raffinose/stachyose/melibiose transport system permease protein"
+  },
+  "K10119": {
+    "id": "K10119",
+    "name": "raffinose/stachyose/melibiose transport system permease protein"
+  },
+  "K01784": {
+    "id": "K01784",
+    "name": "UDP-glucose 4-epimerase [EC:5.1.3.2]"
+  },
+  "K22927": {
+    "id": "K22927",
+    "name": "cyclic-di-AMP phosphodiesterase [EC:3.1.4.59]"
+  },
+  "K02939": {
+    "id": "K02939",
+    "name": "large subunit ribosomal protein L9"
+  },
+  "K02314": {
+    "id": "K02314",
+    "name": "replicative DNA helicase [EC:5.6.2.3]"
+  },
+  "K04771": {
+    "id": "K04771",
+    "name": "serine protease Do [EC:3.4.21.107]"
+  },
+  "K03698": {
+    "id": "K03698",
+    "name": "3'-5' exoribonuclease [EC:3.1.-.-]"
+  },
+  "K03215": {
+    "id": "K03215",
+    "name": "23S rRNA (uracil1939-C5)-methyltransferase [EC:2.1.1.190]"
+  },
+  "K01424": {
+    "id": "K01424",
+    "name": "L-asparaginase [EC:3.5.1.1]"
+  },
+  "K01876": {
+    "id": "K01876",
+    "name": "aspartyl-tRNA synthetase [EC:6.1.1.12]"
+  },
+  "K02433": {
+    "id": "K02433",
+    "name": "aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A [EC:6.3.5.6 6.3.5.7]"
+  },
+  "K02434": {
+    "id": "K02434",
+    "name": "aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]"
+  },
+  "K03710": {
+    "id": "K03710",
+    "name": "GntR family transcriptional regulator"
+  },
+  "K00847": {
+    "id": "K00847",
+    "name": "fructokinase [EC:2.7.1.4]"
+  },
+  "K00820": {
+    "id": "K00820",
+    "name": "glutamine---fructose-6-phosphate transaminase (isomerizing) [EC:2.6.1.16]"
+  },
+  "K06971": {
+    "id": "K06971",
+    "name": "uncharacterized protein"
+  },
+  "K01486": {
+    "id": "K01486",
+    "name": "adenine deaminase [EC:3.5.4.2]"
+  },
+  "K06901": {
+    "id": "K06901",
+    "name": "adenine/guanine/hypoxanthine permease"
+  },
+  "K00567": {
+    "id": "K00567",
+    "name": "methylated-DNA-[protein]-cysteine S-methyltransferase [EC:2.1.1.63]"
+  },
+  "K12257": {
+    "id": "K12257",
+    "name": "SecD/SecF fusion protein"
+  },
+  "K03498": {
+    "id": "K03498",
+    "name": "trk/ktr system potassium uptake protein"
+  },
+  "K03499": {
+    "id": "K03499",
+    "name": "trk/ktr system potassium uptake protein"
+  },
+  "K00873": {
+    "id": "K00873",
+    "name": "pyruvate kinase [EC:2.7.1.40]"
+  },
+  "K00297": {
+    "id": "K00297",
+    "name": "methylenetetrahydrofolate reductase (NADH) [EC:1.5.1.54]"
+  },
+  "K03367": {
+    "id": "K03367",
+    "name": "D-alanine--poly(phosphoribitol) ligase subunit 1 [EC:6.1.1.13]"
+  },
+  "K03739": {
+    "id": "K03739",
+    "name": "membrane protein involved in D-alanine export"
+  },
+  "K21021": {
+    "id": "K21021",
+    "name": "diguanylate cyclase [EC:2.7.7.65]"
+  },
+  "K03438": {
+    "id": "K03438",
+    "name": "16S rRNA (cytosine1402-N4)-methyltransferase [EC:2.1.1.199]"
+  },
+  "K01929": {
+    "id": "K01929",
+    "name": "UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase [EC:6.3.2.10]"
+  },
+  "K01921": {
+    "id": "K01921",
+    "name": "D-alanine-D-alanine ligase [EC:6.3.2.4]"
+  },
+  "K00763": {
+    "id": "K00763",
+    "name": "nicotinate phosphoribosyltransferase [EC:6.3.4.21]"
+  },
+  "K15868": {
+    "id": "K15868",
+    "name": "bile acid-coenzyme A ligase [EC:6.2.1.7]"
+  },
+  "K15870": {
+    "id": "K15870",
+    "name": "3-oxocholoyl-CoA 4-desaturase [EC:1.3.1.115]"
+  },
+  "K15872": {
+    "id": "K15872",
+    "name": "bile-acid 7alpha-dehydratase [EC:4.2.1.106]"
+  },
+  "K15871": {
+    "id": "K15871",
+    "name": "bile acid CoA-transferase [EC:2.8.3.25]"
+  },
+  "K08298": {
+    "id": "K08298",
+    "name": "L-carnitine CoA-transferase [EC:2.8.3.21]"
+  },
+  "K15873": {
+    "id": "K15873",
+    "name": "7beta-hydroxy-3-oxochol-24-oyl-CoA 4-desaturase [EC:1.3.1.116]"
+  },
+  "K00705": {
+    "id": "K00705",
+    "name": "4-alpha-glucanotransferase [EC:2.4.1.25]"
+  },
+  "K00919": {
+    "id": "K00919",
+    "name": "4-diphosphocytidyl-2-C-methyl-D-erythritol kinase [EC:2.7.1.148]"
+  },
+  "K06387": {
+    "id": "K06387",
+    "name": "stage II sporulation protein R"
+  },
+  "K00243": {
+    "id": "K00243",
+    "name": "uncharacterized protein"
+  },
+  "K05799": {
+    "id": "K05799",
+    "name": "GntR family transcriptional regulator, transcriptional repressor for pyruvate dehydrogenase complex"
+  },
+  "K02337": {
+    "id": "K02337",
+    "name": "DNA polymerase III subunit alpha [EC:2.7.7.7]"
+  },
+  "K00850": {
+    "id": "K00850",
+    "name": "6-phosphofructokinase 1 [EC:2.7.1.11]"
+  },
+  "K01776": {
+    "id": "K01776",
+    "name": "glutamate racemase [EC:5.1.1.3]"
+  },
+  "K06131": {
+    "id": "K06131",
+    "name": "cardiolipin synthase A/B [EC:2.7.8.-]"
+  },
+  "K03545": {
+    "id": "K03545",
+    "name": "trigger factor"
+  },
+  "K05499": {
+    "id": "K05499",
+    "name": "LacI family transcriptional regulator, repressor for deo operon, udp, cdd, tsx, nupC, and nupG"
+  },
+  "K03521": {
+    "id": "K03521",
+    "name": "electron transfer flavoprotein beta subunit"
+  },
+  "K03522": {
+    "id": "K03522",
+    "name": "electron transfer flavoprotein alpha subunit"
+  },
+  "K03335": {
+    "id": "K03335",
+    "name": "inosose dehydratase [EC:4.2.1.44]"
+  },
+  "K03308": {
+    "id": "K03308",
+    "name": "neurotransmitter:Na+ symporter, NSS family"
+  },
+  "K00848": {
+    "id": "K00848",
+    "name": "rhamnulokinase [EC:2.7.1.5]"
+  },
+  "K01628": {
+    "id": "K01628",
+    "name": "L-fuculose-phosphate aldolase [EC:4.1.2.17]"
+  },
+  "K06283": {
+    "id": "K06283",
+    "name": "putative DeoR family transcriptional regulator, stage III sporulation protein D"
+  },
+  "K02784": {
+    "id": "K02784",
+    "name": "phosphocarrier protein HPr"
+  },
+  "K01951": {
+    "id": "K01951",
+    "name": "GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]"
+  },
+  "K16906": {
+    "id": "K16906",
+    "name": "fluoroquinolone transport system permease protein"
+  },
+  "K07402": {
+    "id": "K07402",
+    "name": "xanthine dehydrogenase accessory factor"
+  },
+  "K02020": {
+    "id": "K02020",
+    "name": "molybdate transport system substrate-binding protein"
+  },
+  "K02018": {
+    "id": "K02018",
+    "name": "molybdate transport system permease protein"
+  },
+  "K02017": {
+    "id": "K02017",
+    "name": "molybdate transport system ATP-binding protein [EC:7.3.2.5]"
+  },
+  "K06940": {
+    "id": "K06940",
+    "name": "uncharacterized protein"
+  },
+  "K03147": {
+    "id": "K03147",
+    "name": "phosphomethylpyrimidine synthase [EC:4.1.99.17]"
+  },
+  "K07343": {
+    "id": "K07343",
+    "name": "DNA transformation protein and related proteins"
+  },
+  "K09861": {
+    "id": "K09861",
+    "name": "uncharacterized protein"
+  },
+  "K07729": {
+    "id": "K07729",
+    "name": "putative transcriptional regulator"
+  },
+  "K02051": {
+    "id": "K02051",
+    "name": "NitT/TauT family transport system substrate-binding protein"
+  },
+  "K02050": {
+    "id": "K02050",
+    "name": "NitT/TauT family transport system permease protein"
+  },
+  "K02049": {
+    "id": "K02049",
+    "name": "NitT/TauT family transport system ATP-binding protein"
+  },
+  "K03831": {
+    "id": "K03831",
+    "name": "molybdopterin adenylyltransferase [EC:2.7.7.75]"
+  },
+  "K21029": {
+    "id": "K21029",
+    "name": "molybdopterin-synthase adenylyltransferase [EC:2.7.7.80]"
+  },
+  "K00196": {
+    "id": "K00196",
+    "name": "anaerobic carbon-monoxide dehydrogenase iron sulfur subunit"
+  },
+  "K03738": {
+    "id": "K03738",
+    "name": "aldehyde:ferredoxin oxidoreductase [EC:1.2.7.5]"
+  },
+  "K03636": {
+    "id": "K03636",
+    "name": "sulfur-carrier protein"
+  },
+  "K17999": {
+    "id": "K17999",
+    "name": "iron-hydrogenase subunit gamma [EC:1.12.1.4]"
+  },
+  "K00335": {
+    "id": "K00335",
+    "name": "NADH-quinone oxidoreductase subunit F [EC:7.1.1.2]"
+  },
+  "K05588": {
+    "id": "K05588",
+    "name": "bidirectional [NiFe] hydrogenase diaphorase subunit [EC:7.1.1.2]"
+  },
+  "K03639": {
+    "id": "K03639",
+    "name": "GTP 3',8-cyclase [EC:4.1.99.22]"
+  },
+  "K05772": {
+    "id": "K05772",
+    "name": "tungstate transport system substrate-binding protein"
+  },
+  "K05773": {
+    "id": "K05773",
+    "name": "tungstate transport system permease protein"
+  },
+  "K06857": {
+    "id": "K06857",
+    "name": "tungstate transport system ATP-binding protein [EC:7.3.2.6]"
+  },
+  "K03750": {
+    "id": "K03750",
+    "name": "molybdopterin molybdotransferase [EC:2.10.1.1]"
+  },
+  "K07219": {
+    "id": "K07219",
+    "name": "putative molybdopterin biosynthesis protein"
+  },
+  "K00558": {
+    "id": "K00558",
+    "name": "DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]"
+  },
+  "K07458": {
+    "id": "K07458",
+    "name": "DNA mismatch endonuclease, patch repair protein [EC:3.1.-.-]"
+  },
+  "K25232": {
+    "id": "K25232",
+    "name": "fatty acid kinase fatty acid binding subunit"
+  },
+  "K15974": {
+    "id": "K15974",
+    "name": "MarR family transcriptional regulator, negative regulator of the multidrug operon emrRAB"
+  },
+  "K01990": {
+    "id": "K01990",
+    "name": "ABC-2 type transport system ATP-binding protein"
+  },
+  "K01992": {
+    "id": "K01992",
+    "name": "ABC-2 type transport system permease protein"
+  },
+  "K18475": {
+    "id": "K18475",
+    "name": "lysine-N-methylase [EC:2.1.1.-]"
+  },
+  "K01267": {
+    "id": "K01267",
+    "name": "aspartyl aminopeptidase [EC:3.4.11.21]"
+  },
+  "K01955": {
+    "id": "K01955",
+    "name": "carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]"
+  },
+  "K03581": {
+    "id": "K03581",
+    "name": "exodeoxyribonuclease V alpha subunit [EC:3.1.11.5]"
+  },
+  "K18640": {
+    "id": "K18640",
+    "name": "plasmid segregation protein ParM"
+  },
+  "K07667": {
+    "id": "K07667",
+    "name": "two-component system, OmpR family, KDP operon response regulator KdpE"
+  },
+  "K18843": {
+    "id": "K18843",
+    "name": "antitoxin HicB"
+  },
+  "K07133": {
+    "id": "K07133",
+    "name": "uncharacterized protein"
+  },
+  "K07260": {
+    "id": "K07260",
+    "name": "zinc D-Ala-D-Ala carboxypeptidase [EC:3.4.17.14]"
+  },
+  "K14654": {
+    "id": "K14654",
+    "name": "2,5-diamino-6-(ribosylamino)-4(3H)-pyrimidinone 5'-phosphate reductase [EC:1.1.1.302]"
+  },
+  "K19299": {
+    "id": "K19299",
+    "name": "aminoglycoside 3'-phosphotransferase III [EC:2.7.1.95]"
+  },
+  "K19273": {
+    "id": "K19273",
+    "name": "streptothricin acetyltransferase [EC:2.3.-.-]"
+  },
+  "K05593": {
+    "id": "K05593",
+    "name": "aminoglycoside 6-adenylyltransferase [EC:2.7.7.-]"
+  },
+  "K00561": {
+    "id": "K00561",
+    "name": "23S rRNA (adenine-N6)-dimethyltransferase [EC:2.1.1.184]"
+  },
+  "K20487": {
+    "id": "K20487",
+    "name": "two-component system, OmpR family, lantibiotic biosynthesis sensor histidine kinase NisK/SpaK [EC:2.7.13.3]"
+  },
+  "K03090": {
+    "id": "K03090",
+    "name": "RNA polymerase sigma-B factor"
+  },
+  "K12063": {
+    "id": "K12063",
+    "name": "conjugal transfer ATP-binding protein TraC"
+  },
+  "K20509": {
+    "id": "K20509",
+    "name": "carboxybiotin decarboxylase [EC:7.2.4.1]"
+  },
+  "K02003": {
+    "id": "K02003",
+    "name": "putative ABC transport system ATP-binding protein"
+  },
+  "K02004": {
+    "id": "K02004",
+    "name": "putative ABC transport system permease protein"
+  },
+  "K02945": {
+    "id": "K02945",
+    "name": "small subunit ribosomal protein S1"
+  },
+  "K03205": {
+    "id": "K03205",
+    "name": "type IV secretion system protein VirD4 [EC:7.4.2.8]"
+  },
+  "K19055": {
+    "id": "K19055",
+    "name": "Ala-tRNA(Pro) deacylase [EC:3.1.1.-]"
+  },
+  "K01026": {
+    "id": "K01026",
+    "name": "propionate CoA-transferase [EC:2.8.3.1]"
+  },
+  "K00574": {
+    "id": "K00574",
+    "name": "cyclopropane-fatty-acyl-phospholipid synthase [EC:2.1.1.79]"
+  },
+  "K10947": {
+    "id": "K10947",
+    "name": "PadR family transcriptional regulator"
+  },
+  "K00102": {
+    "id": "K00102",
+    "name": "D-lactate dehydrogenase (cytochrome) [EC:1.1.2.4]"
+  },
+  "K05020": {
+    "id": "K05020",
+    "name": "glycine betaine transporter"
+  },
+  "K02443": {
+    "id": "K02443",
+    "name": "glycerol uptake operon antiterminator"
+  },
+  "K09116": {
+    "id": "K09116",
+    "name": "damage-control phosphatase, subfamily I [EC:3.1.3.-]"
+  },
+  "K03787": {
+    "id": "K03787",
+    "name": "5'/3'-nucleotidase [EC:3.1.3.5 3.1.3.6]"
+  },
+  "K04651": {
+    "id": "K04651",
+    "name": "hydrogenase nickel incorporation protein HypA/HybF"
+  },
+  "K03088": {
+    "id": "K03088",
+    "name": "RNA polymerase sigma-70 factor, ECF subfamily"
+  },
+  "K07138": {
+    "id": "K07138",
+    "name": "uncharacterized protein"
+  },
+  "K13587": {
+    "id": "K13587",
+    "name": "two-component system, cell cycle sensor histidine kinase and response regulator CckA [EC:2.7.13.3]"
+  },
+  "K21900": {
+    "id": "K21900",
+    "name": "LysR family transcriptional regulator, transcriptional activator of the cysJI operon"
+  },
+  "K07089": {
+    "id": "K07089",
+    "name": "uncharacterized protein"
+  },
+  "K10773": {
+    "id": "K10773",
+    "name": "endonuclease III [EC:3.2.2.- 4.2.99.18]"
+  },
+  "K09768": {
+    "id": "K09768",
+    "name": "uncharacterized protein"
+  },
+  "K02574": {
+    "id": "K02574",
+    "name": "ferredoxin-type protein NapH"
+  },
+  "K03654": {
+    "id": "K03654",
+    "name": "ATP-dependent DNA helicase RecQ [EC:5.6.2.4]"
+  },
+  "K00005": {
+    "id": "K00005",
+    "name": "glycerol dehydrogenase [EC:1.1.1.6]"
+  },
+  "K12952": {
+    "id": "K12952",
+    "name": "cation-transporting P-type ATPase E [EC:7.2.2.-]"
+  },
+  "K07095": {
+    "id": "K07095",
+    "name": "uncharacterized protein"
+  },
+  "K01104": {
+    "id": "K01104",
+    "name": "protein-tyrosine phosphatase [EC:3.1.3.48]"
+  },
+  "K06889": {
+    "id": "K06889",
+    "name": "uncharacterized protein"
+  },
+  "K05919": {
+    "id": "K05919",
+    "name": "superoxide reductase [EC:1.15.1.2]"
+  },
+  "K06969": {
+    "id": "K06969",
+    "name": "23S rRNA (cytosine1962-C5)-methyltransferase [EC:2.1.1.191]"
+  },
+  "K02040": {
+    "id": "K02040",
+    "name": "phosphate transport system substrate-binding protein"
+  },
+  "K02037": {
+    "id": "K02037",
+    "name": "phosphate transport system permease protein"
+  },
+  "K02038": {
+    "id": "K02038",
+    "name": "phosphate transport system permease protein"
+  },
+  "K02036": {
+    "id": "K02036",
+    "name": "phosphate transport system ATP-binding protein [EC:7.3.2.1]"
+  },
+  "K02039": {
+    "id": "K02039",
+    "name": "phosphate transport system protein"
+  },
+  "K07658": {
+    "id": "K07658",
+    "name": "two-component system, OmpR family, alkaline phosphatase synthesis response regulator PhoP"
+  },
+  "K07636": {
+    "id": "K07636",
+    "name": "two-component system, OmpR family, phosphate regulon sensor histidine kinase PhoR [EC:2.7.13.3]"
+  },
+  "K07668": {
+    "id": "K07668",
+    "name": "two-component system, OmpR family, response regulator VicR"
+  },
+  "K07456": {
+    "id": "K07456",
+    "name": "DNA mismatch repair protein MutS2"
+  },
+  "K14445": {
+    "id": "K14445",
+    "name": "solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2/3/5"
+  },
+  "K19271": {
+    "id": "K19271",
+    "name": "chloramphenicol O-acetyltransferase type A [EC:2.3.1.28]"
+  },
+  "K00275": {
+    "id": "K00275",
+    "name": "pyridoxamine 5'-phosphate oxidase [EC:1.4.3.5]"
+  },
+  "K03790": {
+    "id": "K03790",
+    "name": "[ribosomal protein S5]-alanine N-acetyltransferase [EC:2.3.1.267]"
+  },
+  "K10563": {
+    "id": "K10563",
+    "name": "formamidopyrimidine-DNA glycosylase [EC:3.2.2.23 4.2.99.18]"
+  },
+  "K21467": {
+    "id": "K21467",
+    "name": "penicillin-binding protein 3"
+  },
+  "K22278": {
+    "id": "K22278",
+    "name": "peptidoglycan-N-acetylglucosamine deacetylase [EC:3.5.1.104]"
+  },
+  "K15024": {
+    "id": "K15024",
+    "name": "putative phosphotransacetylase [EC:2.3.1.8]"
+  },
+  "K01915": {
+    "id": "K01915",
+    "name": "glutamine synthetase [EC:6.3.1.2]"
+  },
+  "K01778": {
+    "id": "K01778",
+    "name": "diaminopimelate epimerase [EC:5.1.1.7]"
+  },
+  "K10206": {
+    "id": "K10206",
+    "name": "LL-diaminopimelate aminotransferase [EC:2.6.1.83]"
+  },
+  "K03701": {
+    "id": "K03701",
+    "name": "excinuclease ABC subunit A"
+  },
+  "K07705": {
+    "id": "K07705",
+    "name": "two-component system, LytTR family, response regulator LytT"
+  },
+  "K01687": {
+    "id": "K01687",
+    "name": "dihydroxy-acid dehydratase [EC:4.2.1.9]"
+  },
+  "K00849": {
+    "id": "K00849",
+    "name": "galactokinase [EC:2.7.1.6]"
+  },
+  "K00965": {
+    "id": "K00965",
+    "name": "UDPglucose--hexose-1-phosphate uridylyltransferase [EC:2.7.7.12]"
+  },
+  "K02346": {
+    "id": "K02346",
+    "name": "DNA polymerase IV [EC:2.7.7.7]"
+  },
+  "K25152": {
+    "id": "K25152",
+    "name": "gliding motility-associated transport system ATP-binding protein"
+  },
+  "K25151": {
+    "id": "K25151",
+    "name": "gliding motility-associated transport system permease protein"
+  },
+  "K25153": {
+    "id": "K25153",
+    "name": "gliding motility-associatede transport system auxiliary component"
+  },
+  "K09759": {
+    "id": "K09759",
+    "name": "nondiscriminating aspartyl-tRNA synthetase [EC:6.1.1.23]"
+  },
+  "K02435": {
+    "id": "K02435",
+    "name": "aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C [EC:6.3.5.6 6.3.5.7]"
+  },
+  "K00764": {
+    "id": "K00764",
+    "name": "amidophosphoribosyltransferase [EC:2.4.2.14]"
+  },
+  "K01808": {
+    "id": "K01808",
+    "name": "ribose 5-phosphate isomerase B [EC:5.3.1.6]"
+  },
+  "K21910": {
+    "id": "K21910",
+    "name": "L-erythrulose 1-phosphate isomerase [EC:5.3.1.33]"
+  },
+  "K02526": {
+    "id": "K02526",
+    "name": "2-keto-3-deoxygluconate permease"
+  },
+  "K22441": {
+    "id": "K22441",
+    "name": "diamine N-acetyltransferase [EC:2.3.1.57]"
+  },
+  "K20926": {
+    "id": "K20926",
+    "name": "cellobiuronic acid synthase [EC:2.4.1.-]"
+  },
+  "K00012": {
+    "id": "K00012",
+    "name": "UDPglucose 6-dehydrogenase [EC:1.1.1.22]"
+  },
+  "K12132": {
+    "id": "K12132",
+    "name": "eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]"
+  },
+  "K06400": {
+    "id": "K06400",
+    "name": "site-specific DNA recombinase"
+  },
+  "K18220": {
+    "id": "K18220",
+    "name": "ribosomal protection tetracycline resistance protein"
+  },
+  "K04079": {
+    "id": "K04079",
+    "name": "molecular chaperone HtpG"
+  },
+  "K19294": {
+    "id": "K19294",
+    "name": "alginate O-acetyltransferase complex protein AlgI"
+  },
+  "K06182": {
+    "id": "K06182",
+    "name": "23S rRNA pseudouridine2604 synthase [EC:5.4.99.21]"
+  },
+  "K01972": {
+    "id": "K01972",
+    "name": "DNA ligase (NAD+) [EC:6.5.1.2]"
+  },
+  "K03544": {
+    "id": "K03544",
+    "name": "ATP-dependent Clp protease ATP-binding subunit ClpX"
+  },
+  "K03101": {
+    "id": "K03101",
+    "name": "signal peptidase II [EC:3.4.23.36]"
+  },
+  "K06223": {
+    "id": "K06223",
+    "name": "DNA adenine methylase [EC:2.1.1.72]"
+  },
+  "K01426": {
+    "id": "K01426",
+    "name": "amidase [EC:3.5.1.4]"
+  },
+  "K06221": {
+    "id": "K06221",
+    "name": "2,5-diketo-D-gluconate reductase A [EC:1.1.1.346]"
+  },
+  "K19955": {
+    "id": "K19955",
+    "name": "alcohol dehydrogenase [EC:1.1.1.-]"
+  },
+  "K00055": {
+    "id": "K00055",
+    "name": "aryl-alcohol dehydrogenase [EC:1.1.1.90]"
+  },
+  "K00865": {
+    "id": "K00865",
+    "name": "glycerate 2-kinase [EC:2.7.1.165]"
+  },
+  "K03695": {
+    "id": "K03695",
+    "name": "ATP-dependent Clp protease ATP-binding subunit ClpB"
+  },
+  "K04066": {
+    "id": "K04066",
+    "name": "primosomal protein N' (replication factor Y) (superfamily II helicase) [EC:5.6.2.4]"
+  },
+  "K01462": {
+    "id": "K01462",
+    "name": "peptide deformylase [EC:3.5.1.88]"
+  },
+  "K00604": {
+    "id": "K00604",
+    "name": "methionyl-tRNA formyltransferase [EC:2.1.2.9]"
+  },
+  "K06973": {
+    "id": "K06973",
+    "name": "uncharacterized protein"
+  },
+  "K03500": {
+    "id": "K03500",
+    "name": "16S rRNA (cytosine967-C5)-methyltransferase [EC:2.1.1.176]"
+  },
+  "K06941": {
+    "id": "K06941",
+    "name": "23S rRNA (adenine2503-C2)-methyltransferase [EC:2.1.1.192]"
+  },
+  "K20074": {
+    "id": "K20074",
+    "name": "PPM family protein phosphatase [EC:3.1.3.16]"
+  },
+  "K06949": {
+    "id": "K06949",
+    "name": "ribosome biogenesis GTPase / thiamine phosphate phosphatase [EC:3.6.1.- 3.1.3.100]"
+  },
+  "K01783": {
+    "id": "K01783",
+    "name": "ribulose-phosphate 3-epimerase [EC:5.1.3.1]"
+  },
+  "K00949": {
+    "id": "K00949",
+    "name": "thiamine pyrophosphokinase [EC:2.7.6.2]"
+  },
+  "K06942": {
+    "id": "K06942",
+    "name": "ribosome-binding ATPase"
+  },
+  "K13292": {
+    "id": "K13292",
+    "name": "phosphatidylglycerol---prolipoprotein diacylglyceryl transferase [EC:2.5.1.145]"
+  },
+  "K01788": {
+    "id": "K01788",
+    "name": "N-acylglucosamine-6-phosphate 2-epimerase [EC:5.1.3.9]"
+  },
+  "K01639": {
+    "id": "K01639",
+    "name": "N-acetylneuraminate lyase [EC:4.1.3.3]"
+  },
+  "K03307": {
+    "id": "K03307",
+    "name": "solute:Na+ symporter, SSS family"
+  },
+  "K19334": {
+    "id": "K19334",
+    "name": "biofilm protein TabA"
+  },
+  "K01443": {
+    "id": "K01443",
+    "name": "N-acetylglucosamine-6-phosphate deacetylase [EC:3.5.1.25]"
+  },
+  "K07069": {
+    "id": "K07069",
+    "name": "uncharacterized protein"
+  },
+  "K01866": {
+    "id": "K01866",
+    "name": "tyrosyl-tRNA synthetase [EC:6.1.1.1]"
+  },
+  "K01208": {
+    "id": "K01208",
+    "name": "cyclomaltodextrinase / maltogenic alpha-amylase / neopullulanase [EC:3.2.1.54 3.2.1.133 3.2.1.135]"
+  },
+  "K03327": {
+    "id": "K03327",
+    "name": "MATE family, multidrug and toxin extrusion protein"
+  },
+  "K02871": {
+    "id": "K02871",
+    "name": "large subunit ribosomal protein L13"
+  },
+  "K02996": {
+    "id": "K02996",
+    "name": "small subunit ribosomal protein S9"
+  },
+  "K01012": {
+    "id": "K01012",
+    "name": "biotin synthase [EC:2.8.1.6]"
+  },
+  "K21739": {
+    "id": "K21739",
+    "name": "probable pyridine nucleotide-disulfide oxidoreductase"
+  },
+  "K03624": {
+    "id": "K03624",
+    "name": "transcription elongation factor GreA"
+  },
+  "K00878": {
+    "id": "K00878",
+    "name": "hydroxyethylthiazole kinase [EC:2.7.1.50]"
+  },
+  "K00788": {
+    "id": "K00788",
+    "name": "thiamine-phosphate pyrophosphorylase [EC:2.5.1.3]"
+  },
+  "K24204": {
+    "id": "K24204",
+    "name": "mannitol-1-/sugar-/sorbitol-6-/2-deoxyglucose-6-phosphatase [EC:3.1.3.22 3.1.3.23 3.1.3.50 3.1.3.68]"
+  },
+  "K01838": {
+    "id": "K01838",
+    "name": "beta-phosphoglucomutase [EC:5.4.2.6]"
+  },
+  "K00941": {
+    "id": "K00941",
+    "name": "hydroxymethylpyrimidine/phosphomethylpyrimidine kinase [EC:2.7.1.49 2.7.4.7]"
+  },
+  "K19350": {
+    "id": "K19350",
+    "name": "lincosamide and streptogramin A transport system ATP-binding/permease protein"
+  },
+  "K07478": {
+    "id": "K07478",
+    "name": "putative ATPase"
+  },
+  "K07443": {
+    "id": "K07443",
+    "name": "methylated-DNA-protein-cysteine methyltransferase related protein"
+  },
+  "K20488": {
+    "id": "K20488",
+    "name": "two-component system, OmpR family, lantibiotic biosynthesis response regulator NisR/SpaR"
+  },
+  "K11176": {
+    "id": "K11176",
+    "name": "IMP cyclohydrolase [EC:3.5.4.10]"
+  },
+  "K00602": {
+    "id": "K00602",
+    "name": "phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10]"
+  },
+  "K23242": {
+    "id": "K23242",
+    "name": "manganese efflux pump family protein"
+  },
+  "K07027": {
+    "id": "K07027",
+    "name": "glycosyltransferase 2 family protein"
+  },
+  "K07137": {
+    "id": "K07137",
+    "name": "uncharacterized protein"
+  },
+  "K03431": {
+    "id": "K03431",
+    "name": "phosphoglucosamine mutase [EC:5.4.2.10]"
+  },
+  "K01689": {
+    "id": "K01689",
+    "name": "enolase 1/2/3 [EC:4.2.1.11]"
+  },
+  "K12999": {
+    "id": "K12999",
+    "name": "glucosyltransferase [EC:2.4.1.-]"
+  },
+  "K03075": {
+    "id": "K03075",
+    "name": "preprotein translocase subunit SecG"
+  },
+  "K12573": {
+    "id": "K12573",
+    "name": "ribonuclease R [EC:3.1.13.1]"
+  },
+  "K03664": {
+    "id": "K03664",
+    "name": "SsrA-binding protein"
+  },
+  "K13993": {
+    "id": "K13993",
+    "name": "HSP20 family protein"
+  },
+  "K13653": {
+    "id": "K13653",
+    "name": "AraC family transcriptional regulator"
+  },
+  "K11249": {
+    "id": "K11249",
+    "name": "cysteine/O-acetylserine efflux protein"
+  },
+  "K03594": {
+    "id": "K03594",
+    "name": "bacterioferritin [EC:1.16.3.1]"
+  },
+  "K06334": {
+    "id": "K06334",
+    "name": "spore coat protein JC"
+  },
+  "K06333": {
+    "id": "K06333",
+    "name": "spore coat protein JB"
+  },
+  "K07775": {
+    "id": "K07775",
+    "name": "two-component system, OmpR family, response regulator ResD"
+  },
+  "K18345": {
+    "id": "K18345",
+    "name": "two-component system, OmpR family, sensor histidine kinase VanS [EC:2.7.13.3]"
+  },
+  "K02501": {
+    "id": "K02501",
+    "name": "imidazole glycerol-phosphate synthase subunit HisH [EC:4.3.2.10]"
+  },
+  "K02500": {
+    "id": "K02500",
+    "name": "imidazole glycerol-phosphate synthase subunit HisF [EC:4.3.2.10]"
+  },
+  "K03648": {
+    "id": "K03648",
+    "name": "uracil-DNA glycosylase [EC:3.2.2.27]"
+  },
+  "K00382": {
+    "id": "K00382",
+    "name": "dihydrolipoyl dehydrogenase [EC:1.8.1.4]"
+  },
+  "K01534": {
+    "id": "K01534",
+    "name": "Zn2+/Cd2+-exporting ATPase [EC:7.2.2.12 7.2.2.21]"
+  },
+  "K21903": {
+    "id": "K21903",
+    "name": "ArsR family transcriptional regulator, lead/cadmium/zinc/bismuth-responsive transcriptional repressor"
+  },
+  "K03665": {
+    "id": "K03665",
+    "name": "GTPase"
+  },
+  "K16899": {
+    "id": "K16899",
+    "name": "ATP-dependent helicase/nuclease subunit B [EC:5.6.2.4 3.1.-.-]"
+  },
+  "K16898": {
+    "id": "K16898",
+    "name": "ATP-dependent helicase/nuclease subunit A [EC:5.6.2.4 3.1.-.-]"
+  },
+  "K03973": {
+    "id": "K03973",
+    "name": "phage shock protein C"
+  },
+  "K05946": {
+    "id": "K05946",
+    "name": "N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase [EC:2.4.1.187]"
+  },
+  "K02647": {
+    "id": "K02647",
+    "name": "carbohydrate diacid regulator"
+  },
+  "K09812": {
+    "id": "K09812",
+    "name": "cell division transport system ATP-binding protein"
+  },
+  "K09811": {
+    "id": "K09811",
+    "name": "cell division transport system permease protein"
+  },
+  "K03797": {
+    "id": "K03797",
+    "name": "carboxyl-terminal processing protease [EC:3.4.21.102]"
+  },
+  "K01465": {
+    "id": "K01465",
+    "name": "dihydroorotase [EC:3.5.2.3]"
+  },
+  "K01591": {
+    "id": "K01591",
+    "name": "orotidine-5'-phosphate decarboxylase [EC:4.1.1.23]"
+  },
+  "K02823": {
+    "id": "K02823",
+    "name": "dihydroorotate dehydrogenase electron transfer subunit"
+  },
+  "K17828": {
+    "id": "K17828",
+    "name": "dihydroorotate dehydrogenase (NAD+) catalytic subunit [EC:1.3.1.14]"
+  },
+  "K00762": {
+    "id": "K00762",
+    "name": "orotate phosphoribosyltransferase [EC:2.4.2.10]"
+  },
+  "K19689": {
+    "id": "K19689",
+    "name": "aminopeptidase [EC:3.4.11.-]"
+  },
+  "K01588": {
+    "id": "K01588",
+    "name": "5-(carboxyamino)imidazole ribonucleotide mutase [EC:5.4.99.18]"
+  },
+  "K01933": {
+    "id": "K01933",
+    "name": "phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.3.1]"
+  },
+  "K11175": {
+    "id": "K11175",
+    "name": "phosphoribosylglycinamide formyltransferase 1 [EC:2.1.2.2]"
+  },
+  "K01945": {
+    "id": "K01945",
+    "name": "phosphoribosylamine---glycine ligase [EC:6.3.4.13]"
+  },
+  "K00259": {
+    "id": "K00259",
+    "name": "alanine dehydrogenase [EC:1.4.1.1]"
+  },
+  "K03696": {
+    "id": "K03696",
+    "name": "ATP-dependent Clp protease ATP-binding subunit ClpC"
+  },
+  "K04485": {
+    "id": "K04485",
+    "name": "DNA repair protein RadA/Sms"
+  },
+  "K13038": {
+    "id": "K13038",
+    "name": "phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase [EC:4.1.1.36 6.3.2.5]"
+  },
+  "K02107": {
+    "id": "K02107",
+    "name": "V/A-type H+/Na+-transporting ATPase subunit G/H"
+  },
+  "K00887": {
+    "id": "K00887",
+    "name": "undecaprenol kinase [EC:2.7.1.66]"
+  },
+  "K03688": {
+    "id": "K03688",
+    "name": "ubiquinone biosynthesis protein"
+  },
+  "K25147": {
+    "id": "K25147",
+    "name": "beta-exotoxin I transport system permease protein"
+  },
+  "K25148": {
+    "id": "K25148",
+    "name": "beta-exotoxin I transport system ATP-binding protein"
+  },
+  "K09017": {
+    "id": "K09017",
+    "name": "TetR/AcrR family transcriptional regulator"
+  },
+  "K07560": {
+    "id": "K07560",
+    "name": "D-aminoacyl-tRNA deacylase [EC:3.1.1.96]"
+  },
+  "K18887": {
+    "id": "K18887",
+    "name": "ATP-binding cassette, subfamily B, multidrug efflux pump"
+  },
+  "K18888": {
+    "id": "K18888",
+    "name": "ATP-binding cassette, subfamily B, multidrug efflux pump"
+  },
+  "K07010": {
+    "id": "K07010",
+    "name": "putative glutamine amidotransferase"
+  },
+  "K01940": {
+    "id": "K01940",
+    "name": "argininosuccinate synthase [EC:6.3.4.5]"
+  },
+  "K03588": {
+    "id": "K03588",
+    "name": "peptidoglycan glycosyltransferase [EC:2.4.99.28]"
+  },
+  "K00931": {
+    "id": "K00931",
+    "name": "glutamate 5-kinase [EC:2.7.2.11]"
+  },
+  "K00147": {
+    "id": "K00147",
+    "name": "glutamate-5-semialdehyde dehydrogenase [EC:1.2.1.41]"
+  },
+  "K00145": {
+    "id": "K00145",
+    "name": "N-acetyl-gamma-glutamyl-phosphate reductase [EC:1.2.1.38]"
+  },
+  "K22477": {
+    "id": "K22477",
+    "name": "N-acetylglutamate synthase [EC:2.3.1.1]"
+  },
+  "K00620": {
+    "id": "K00620",
+    "name": "glutamate N-acetyltransferase / amino-acid N-acetyltransferase [EC:2.3.1.35 2.3.1.1]"
+  },
+  "K00930": {
+    "id": "K00930",
+    "name": "acetylglutamate kinase [EC:2.7.2.8]"
+  },
+  "K00821": {
+    "id": "K00821",
+    "name": "acetylornithine/N-succinyldiaminopimelate aminotransferase [EC:2.6.1.11 2.6.1.17]"
+  },
+  "K09936": {
+    "id": "K09936",
+    "name": "bacterial/archaeal transporter family-2 protein"
+  },
+  "K02237": {
+    "id": "K02237",
+    "name": "competence protein ComEA"
+  },
+  "K06298": {
+    "id": "K06298",
+    "name": "germination protein M"
+  },
+  "K02238": {
+    "id": "K02238",
+    "name": "competence protein ComEC"
+  },
+  "K16422": {
+    "id": "K16422",
+    "name": "4-hydroxymandelate oxidase [EC:1.1.3.46]"
+  },
+  "K02340": {
+    "id": "K02340",
+    "name": "DNA polymerase III subunit delta [EC:2.7.7.7]"
+  },
+  "K03596": {
+    "id": "K03596",
+    "name": "GTP-binding protein LepA"
+  },
+  "K01247": {
+    "id": "K01247",
+    "name": "DNA-3-methyladenine glycosylase II [EC:3.2.2.21]"
+  },
+  "K07240": {
+    "id": "K07240",
+    "name": "chromate transporter"
+  },
+  "K07139": {
+    "id": "K07139",
+    "name": "uncharacterized protein"
+  },
+  "K00027": {
+    "id": "K00027",
+    "name": "malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]"
+  },
+  "K03628": {
+    "id": "K03628",
+    "name": "transcription termination factor Rho"
+  },
+  "K02909": {
+    "id": "K02909",
+    "name": "large subunit ribosomal protein L31"
+  },
+  "K02493": {
+    "id": "K02493",
+    "name": "release factor glutamine methyltransferase [EC:2.1.1.297]"
+  },
+  "K02835": {
+    "id": "K02835",
+    "name": "peptide chain release factor 1"
+  },
+  "K01163": {
+    "id": "K01163",
+    "name": "uncharacterized protein"
+  },
+  "K11358": {
+    "id": "K11358",
+    "name": "aspartate aminotransferase [EC:2.6.1.1]"
+  },
+  "K00817": {
+    "id": "K00817",
+    "name": "histidinol-phosphate aminotransferase [EC:2.6.1.9]"
+  },
+  "K23393": {
+    "id": "K23393",
+    "name": "lipid II isoglutaminyl synthase (glutamine-hydrolysing) [EC:6.3.5.13]"
+  },
+  "K07009": {
+    "id": "K07009",
+    "name": "lipid II isoglutaminyl synthase (glutamine-hydrolysing) [EC:6.3.5.13]"
+  },
+  "K03526": {
+    "id": "K03526",
+    "name": "(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase [EC:1.17.7.1 1.17.7.3]"
+  },
+  "K03763": {
+    "id": "K03763",
+    "name": "DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]"
+  },
+  "K08978": {
+    "id": "K08978",
+    "name": "bacterial/archaeal transporter family protein"
+  },
+  "K02217": {
+    "id": "K02217",
+    "name": "ferritin [EC:1.16.3.2]"
+  },
+  "K06213": {
+    "id": "K06213",
+    "name": "magnesium transporter"
+  },
+  "K00926": {
+    "id": "K00926",
+    "name": "carbamate kinase [EC:2.7.2.2]"
+  },
+  "K23779": {
+    "id": "K23779",
+    "name": "XRE family transcriptional regulator, regulator of sulfur utilization"
+  },
+  "K07005": {
+    "id": "K07005",
+    "name": "uncharacterized protein"
+  },
+  "K01912": {
+    "id": "K01912",
+    "name": "phenylacetate-CoA ligase [EC:6.2.1.30]"
+  },
+  "K00179": {
+    "id": "K00179",
+    "name": "indolepyruvate ferredoxin oxidoreductase, alpha subunit [EC:1.2.7.8]"
+  },
+  "K00180": {
+    "id": "K00180",
+    "name": "indolepyruvate ferredoxin oxidoreductase, beta subunit [EC:1.2.7.8]"
+  },
+  "K03816": {
+    "id": "K03816",
+    "name": "xanthine phosphoribosyltransferase [EC:2.4.2.22]"
+  },
+  "K09121": {
+    "id": "K09121",
+    "name": "pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel chelatase [EC:4.99.1.12]"
+  },
+  "K01779": {
+    "id": "K01779",
+    "name": "aspartate racemase [EC:5.1.1.13]"
+  },
+  "K04652": {
+    "id": "K04652",
+    "name": "hydrogenase nickel incorporation protein HypB"
+  },
+  "K22108": {
+    "id": "K22108",
+    "name": "TetR/AcrR family transcriptional regulator, cholesterol catabolism regulator"
+  },
+  "K03429": {
+    "id": "K03429",
+    "name": "processive 1,2-diacylglycerol beta-glucosyltransferase [EC:2.4.1.315]"
+  },
+  "K03704": {
+    "id": "K03704",
+    "name": "cold shock protein"
+  },
+  "K17472": {
+    "id": "K17472",
+    "name": "Rrf2 family transcriptional regulator, cysteine metabolism repressor"
+  },
+  "K01740": {
+    "id": "K01740",
+    "name": "O-acetylhomoserine (thiol)-lyase [EC:2.5.1.49]"
+  },
+  "K01738": {
+    "id": "K01738",
+    "name": "cysteine synthase [EC:2.5.1.47]"
+  },
+  "K08483": {
+    "id": "K08483",
+    "name": "phosphoenolpyruvate-protein phosphotransferase (PTS system enzyme I) [EC:2.7.3.9]"
+  },
+  "K00882": {
+    "id": "K00882",
+    "name": "1-phosphofructokinase [EC:2.7.1.56]"
+  },
+  "K02770": {
+    "id": "K02770",
+    "name": "fructose PTS system EIIBC or EIIC component [EC:2.7.1.202]"
+  },
+  "K01753": {
+    "id": "K01753",
+    "name": "D-serine dehydratase [EC:4.3.1.18]"
+  },
+  "K03637": {
+    "id": "K03637",
+    "name": "cyclic pyranopterin monophosphate synthase [EC:4.6.1.17]"
+  },
+  "K05770": {
+    "id": "K05770",
+    "name": "translocator protein"
+  },
+  "K15738": {
+    "id": "K15738",
+    "name": "ABC transport system ATP-binding/permease protein"
+  },
+  "K01487": {
+    "id": "K01487",
+    "name": "guanine deaminase [EC:3.5.4.3]"
+  },
+  "K00087": {
+    "id": "K00087",
+    "name": "xanthine dehydrogenase molybdenum-binding subunit [EC:1.17.1.4]"
+  },
+  "K13479": {
+    "id": "K13479",
+    "name": "xanthine dehydrogenase FAD-binding subunit [EC:1.17.1.4]"
+  },
+  "K13480": {
+    "id": "K13480",
+    "name": "xanthine dehydrogenase iron-sulfur-binding subunit"
+  },
+  "K00525": {
+    "id": "K00525",
+    "name": "ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]"
+  },
+  "K00526": {
+    "id": "K00526",
+    "name": "ribonucleoside-diphosphate reductase beta chain [EC:1.17.4.1]"
+  },
+  "K03284": {
+    "id": "K03284",
+    "name": "magnesium transporter"
+  },
+  "K01751": {
+    "id": "K01751",
+    "name": "diaminopropionate ammonia-lyase [EC:4.3.1.15]"
+  },
+  "K01464": {
+    "id": "K01464",
+    "name": "dihydropyrimidinase [EC:3.5.2.2]"
+  },
+  "K07469": {
+    "id": "K07469",
+    "name": "aldehyde dehydrogenase (FAD-independent) [EC:1.2.8.2]"
+  },
+  "K01066": {
+    "id": "K01066",
+    "name": "acetyl esterase [EC:3.1.1.-]"
+  },
+  "K01839": {
+    "id": "K01839",
+    "name": "phosphopentomutase [EC:5.4.2.7]"
+  },
+  "K07736": {
+    "id": "K07736",
+    "name": "CarD family transcriptional regulator, regulator of rRNA transcription"
+  },
+  "K04477": {
+    "id": "K04477",
+    "name": "putative hydrolase"
+  },
+  "K07025": {
+    "id": "K07025",
+    "name": "putative hydrolase of the HAD superfamily"
+  },
+  "K03657": {
+    "id": "K03657",
+    "name": "ATP-dependent DNA helicase UvrD/PcrA [EC:5.6.2.4]"
+  },
+  "K01358": {
+    "id": "K01358",
+    "name": "ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]"
+  },
+  "K07670": {
+    "id": "K07670",
+    "name": "two-component system, OmpR family, response regulator MtrA"
+  },
+  "K22107": {
+    "id": "K22107",
+    "name": "TetR/AcrR family transcriptional regulator, cholesterol catabolism regulator"
+  },
+  "K23775": {
+    "id": "K23775",
+    "name": "MarR family transcriptional regulator, organic hydroperoxide resistance regulator"
+  },
+  "K00088": {
+    "id": "K00088",
+    "name": "IMP dehydrogenase [EC:1.1.1.205]"
+  },
+  "K01151": {
+    "id": "K01151",
+    "name": "deoxyribonuclease IV [EC:3.1.21.2]"
+  },
+  "K22900": {
+    "id": "K22900",
+    "name": "tRNA (adenine37-N6)-methyltransferase [EC:2.1.1.-]"
+  },
+  "K23675": {
+    "id": "K23675",
+    "name": "riboflavin transporter"
+  },
+  "K21600": {
+    "id": "K21600",
+    "name": "CsoR family transcriptional regulator, copper-sensing transcriptional repressor"
+  },
+  "K01533": {
+    "id": "K01533",
+    "name": "P-type Cu2+ transporter [EC:7.2.2.9]"
+  },
+  "K07090": {
+    "id": "K07090",
+    "name": "uncharacterized protein"
+  },
+  "K03154": {
+    "id": "K03154",
+    "name": "sulfur carrier protein"
+  },
+  "K03148": {
+    "id": "K03148",
+    "name": "sulfur carrier protein ThiS adenylyltransferase [EC:2.7.7.73]"
+  },
+  "K03149": {
+    "id": "K03149",
+    "name": "thiazole synthase [EC:2.8.1.10]"
+  },
+  "K03150": {
+    "id": "K03150",
+    "name": "2-iminoacetate synthase [EC:4.1.99.19]"
+  },
+  "K16789": {
+    "id": "K16789",
+    "name": "thiamine transporter"
+  },
+  "K07052": {
+    "id": "K07052",
+    "name": "CAAX protease family protein"
+  },
+  "K00265": {
+    "id": "K00265",
+    "name": "glutamate synthase (NADPH) large chain [EC:1.4.1.13]"
+  },
+  "K00266": {
+    "id": "K00266",
+    "name": "glutamate synthase (NADPH) small chain [EC:1.4.1.13]"
+  },
+  "K21471": {
+    "id": "K21471",
+    "name": "peptidoglycan DL-endopeptidase CwlO [EC:3.4.-.-]"
+  },
+  "K02967": {
+    "id": "K02967",
+    "name": "small subunit ribosomal protein S2"
+  },
+  "K02357": {
+    "id": "K02357",
+    "name": "elongation factor Ts"
+  },
+  "K02171": {
+    "id": "K02171",
+    "name": "BlaI family transcriptional regulator, penicillinase repressor"
+  },
+  "K01126": {
+    "id": "K01126",
+    "name": "glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46]"
+  },
+  "K03753": {
+    "id": "K03753",
+    "name": "molybdopterin-guanine dinucleotide biosynthesis adapter protein"
+  },
+  "K09903": {
+    "id": "K09903",
+    "name": "uridylate kinase [EC:2.7.4.22]"
+  },
+  "K02838": {
+    "id": "K02838",
+    "name": "ribosome recycling factor"
+  },
+  "K00806": {
+    "id": "K00806",
+    "name": "undecaprenyl diphosphate synthase [EC:2.5.1.31]"
+  },
+  "K00981": {
+    "id": "K00981",
+    "name": "phosphatidate cytidylyltransferase [EC:2.7.7.41]"
+  },
+  "K00099": {
+    "id": "K00099",
+    "name": "1-deoxy-D-xylulose-5-phosphate reductoisomerase [EC:1.1.1.267]"
+  },
+  "K11749": {
+    "id": "K11749",
+    "name": "regulator of sigma E protease [EC:3.4.24.-]"
+  },
+  "K01956": {
+    "id": "K01956",
+    "name": "carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]"
+  },
+  "K01449": {
+    "id": "K01449",
+    "name": "cell wall hydrolase"
+  },
+  "K19082": {
+    "id": "K19082",
+    "name": "two-component system, OmpR family, response regulator protein BraR/BceR"
+  },
+  "K19081": {
+    "id": "K19081",
+    "name": "two-component system, OmpR family, sensor histidine kinase BraS/BceS [EC:2.7.13.3]"
+  },
+  "K10914": {
+    "id": "K10914",
+    "name": "CRP/FNR family transcriptional regulator, cyclic AMP receptor protein"
+  },
+  "K00384": {
+    "id": "K00384",
+    "name": "thioredoxin reductase (NADPH) [EC:1.8.1.9]"
+  },
+  "K19083": {
+    "id": "K19083",
+    "name": "bacitracin transport system ATP-binding protein"
+  },
+  "K04720": {
+    "id": "K04720",
+    "name": "threonine-phosphate decarboxylase [EC:4.1.1.81]"
+  },
+  "K02030": {
+    "id": "K02030",
+    "name": "polar amino acid transport system substrate-binding protein"
+  },
+  "K02029": {
+    "id": "K02029",
+    "name": "polar amino acid transport system permease protein"
+  },
+  "K02028": {
+    "id": "K02028",
+    "name": "polar amino acid transport system ATP-binding protein [EC:7.4.2.1]"
+  },
+  "K01923": {
+    "id": "K01923",
+    "name": "phosphoribosylaminoimidazole-succinocarboxamide synthase [EC:6.3.2.6]"
+  },
+  "K01756": {
+    "id": "K01756",
+    "name": "adenylosuccinate lyase [EC:4.3.2.2]"
+  },
+  "K03310": {
+    "id": "K03310",
+    "name": "alanine or glycine:cation symporter, AGCS family"
+  },
+  "K10671": {
+    "id": "K10671",
+    "name": "glycine reductase complex component B subunit alpha and beta [EC:1.21.4.2]"
+  },
+  "K10672": {
+    "id": "K10672",
+    "name": "glycine reductase complex component B subunit gamma [EC:1.21.4.2]"
+  },
+  "K03671": {
+    "id": "K03671",
+    "name": "thioredoxin"
+  },
+  "K21577": {
+    "id": "K21577",
+    "name": "glycine/sarcosine/betaine reductase complex component C subunit beta [EC:1.21.4.2 1.21.4.3 1.21.4.4]"
+  },
+  "K21576": {
+    "id": "K21576",
+    "name": "glycine/sarcosine/betaine reductase complex component C subunit alpha [EC:1.21.4.2 1.21.4.3 1.21.4.4]"
+  },
+  "K09698": {
+    "id": "K09698",
+    "name": "nondiscriminating glutamyl-tRNA synthetase [EC:6.1.1.24]"
+  },
+  "K01214": {
+    "id": "K01214",
+    "name": "isoamylase [EC:3.2.1.68]"
+  },
+  "K23753": {
+    "id": "K23753",
+    "name": "AMP-polyphosphate phosphotransferase [EC:2.7.4.33]"
+  },
+  "K01129": {
+    "id": "K01129",
+    "name": "dGTPase [EC:3.1.5.1]"
+  },
+  "K02316": {
+    "id": "K02316",
+    "name": "DNA primase [EC:2.7.7.101]"
+  },
+  "K03086": {
+    "id": "K03086",
+    "name": "RNA polymerase primary sigma factor"
+  },
+  "K06967": {
+    "id": "K06967",
+    "name": "tRNA (adenine22-N1)-methyltransferase [EC:2.1.1.217]"
+  },
+  "K11070": {
+    "id": "K11070",
+    "name": "spermidine/putrescine transport system permease protein"
+  },
+  "K11071": {
+    "id": "K11071",
+    "name": "spermidine/putrescine transport system permease protein"
+  },
+  "K11072": {
+    "id": "K11072",
+    "name": "spermidine/putrescine transport system ATP-binding protein [EC:7.6.2.11]"
+  },
+  "K01736": {
+    "id": "K01736",
+    "name": "chorismate synthase [EC:4.2.3.5]"
+  },
+  "K00773": {
+    "id": "K00773",
+    "name": "queuine tRNA-ribosyltransferase [EC:2.4.2.29]"
+  },
+  "K03210": {
+    "id": "K03210",
+    "name": "preprotein translocase subunit YajC"
+  },
+  "K25086": {
+    "id": "K25086",
+    "name": "maltose transport system substrate-binding protein"
+  },
+  "K25087": {
+    "id": "K25087",
+    "name": "maltose transport system permease protein"
+  },
+  "K25088": {
+    "id": "K25088",
+    "name": "maltose transport system permease protein"
+  },
+  "K00688": {
+    "id": "K00688",
+    "name": "glycogen phosphorylase [EC:2.4.1.1]"
+  },
+  "K00656": {
+    "id": "K00656",
+    "name": "formate C-acetyltransferase [EC:2.3.1.54]"
+  },
+  "K04069": {
+    "id": "K04069",
+    "name": "pyruvate formate lyase activating enzyme [EC:1.97.1.4]"
+  },
+  "K06306": {
+    "id": "K06306",
+    "name": "cortical fragment-lytic enzyme [EC:3.2.1.-]"
+  },
+  "K04758": {
+    "id": "K04758",
+    "name": "ferrous iron transport protein A"
+  },
+  "K21472": {
+    "id": "K21472",
+    "name": "peptidoglycan LD-endopeptidase LytH [EC:3.4.-.-]"
+  },
+  "K07507": {
+    "id": "K07507",
+    "name": "putative Mg2+ transporter-C (MgtC) family protein"
+  },
+  "K00757": {
+    "id": "K00757",
+    "name": "uridine phosphorylase [EC:2.4.2.3]"
+  },
+  "K03784": {
+    "id": "K03784",
+    "name": "purine-nucleoside phosphorylase [EC:2.4.2.1]"
+  },
+  "K01489": {
+    "id": "K01489",
+    "name": "cytidine deaminase [EC:3.5.4.5]"
+  },
+  "K00052": {
+    "id": "K00052",
+    "name": "3-isopropylmalate dehydrogenase [EC:1.1.1.85]"
+  },
+  "K01652": {
+    "id": "K01652",
+    "name": "acetolactate synthase I/II/III large subunit [EC:2.2.1.6]"
+  },
+  "K00831": {
+    "id": "K00831",
+    "name": "phosphoserine aminotransferase [EC:2.6.1.52]"
+  },
+  "K00058": {
+    "id": "K00058",
+    "name": "D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase [EC:1.1.1.95 1.1.1.399]"
+  },
+  "K03977": {
+    "id": "K03977",
+    "name": "GTPase"
+  },
+  "K08591": {
+    "id": "K08591",
+    "name": "acyl phosphate:glycerol-3-phosphate acyltransferase [EC:2.3.1.275]"
+  },
+  "K00057": {
+    "id": "K00057",
+    "name": "glycerol-3-phosphate dehydrogenase (NAD(P)+) [EC:1.1.1.94]"
+  },
+  "K03785": {
+    "id": "K03785",
+    "name": "3-dehydroquinate dehydratase I [EC:4.2.1.10]"
+  },
+  "K06398": {
+    "id": "K06398",
+    "name": "stage IV sporulation protein A"
+  },
+  "K06518": {
+    "id": "K06518",
+    "name": "holin-like protein"
+  },
+  "K03469": {
+    "id": "K03469",
+    "name": "ribonuclease HI [EC:3.1.26.4]"
+  },
+  "K00610": {
+    "id": "K00610",
+    "name": "aspartate carbamoyltransferase regulatory subunit"
+  },
+  "K00609": {
+    "id": "K00609",
+    "name": "aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2]"
+  },
+  "K14170": {
+    "id": "K14170",
+    "name": "chorismate mutase / prephenate dehydratase [EC:5.4.99.5 4.2.1.51]"
+  },
+  "K06923": {
+    "id": "K06923",
+    "name": "uncharacterized protein"
+  },
+  "K00942": {
+    "id": "K00942",
+    "name": "guanylate kinase [EC:2.7.4.8]"
+  },
+  "K03060": {
+    "id": "K03060",
+    "name": "DNA-directed RNA polymerase subunit omega [EC:2.7.7.6]"
+  },
+  "K14441": {
+    "id": "K14441",
+    "name": "ribosomal protein S12 methylthiotransferase [EC:2.8.4.4]"
+  },
+  "K00995": {
+    "id": "K00995",
+    "name": "CDP-diacylglycerol---glycerol-3-phosphate 3-phosphatidyltransferase [EC:2.7.8.5]"
+  },
+  "K03742": {
+    "id": "K03742",
+    "name": "nicotinamide-nucleotide amidase [EC:3.5.1.42]"
+  },
+  "K10036": {
+    "id": "K10036",
+    "name": "glutamine transport system substrate-binding protein"
+  },
+  "K10037": {
+    "id": "K10037",
+    "name": "glutamine transport system permease protein"
+  },
+  "K10038": {
+    "id": "K10038",
+    "name": "glutamine transport system ATP-binding protein [EC:7.4.2.1]"
+  },
+  "K20490": {
+    "id": "K20490",
+    "name": "lantibiotic transport system ATP-binding protein"
+  },
+  "K20491": {
+    "id": "K20491",
+    "name": "lantibiotic transport system permease protein"
+  },
+  "K20492": {
+    "id": "K20492",
+    "name": "lantibiotic transport system permease protein"
+  },
+  "K23356": {
+    "id": "K23356",
+    "name": "HTH-type transcriptional regulator, sugar sensing transcriptional regulator"
+  },
+  "K01586": {
+    "id": "K01586",
+    "name": "diaminopimelate decarboxylase [EC:4.1.1.20]"
+  },
+  "K07079": {
+    "id": "K07079",
+    "name": "uncharacterized protein"
+  },
+  "K02335": {
+    "id": "K02335",
+    "name": "DNA polymerase I [EC:2.7.7.7]"
+  },
+  "K00859": {
+    "id": "K00859",
+    "name": "dephospho-CoA kinase [EC:2.7.1.24]"
+  },
+  "K07166": {
+    "id": "K07166",
+    "name": "ACT domain-containing protein"
+  },
+  "K09157": {
+    "id": "K09157",
+    "name": "uncharacterized protein"
+  },
+  "K00625": {
+    "id": "K00625",
+    "name": "phosphate acetyltransferase [EC:2.3.1.8]"
+  },
+  "K00925": {
+    "id": "K00925",
+    "name": "acetate kinase [EC:2.7.2.1]"
+  },
+  "K07040": {
+    "id": "K07040",
+    "name": "DUF177 domain-containing protein"
+  },
+  "K02911": {
+    "id": "K02911",
+    "name": "large subunit ribosomal protein L32"
+  },
+  "K03621": {
+    "id": "K03621",
+    "name": "phosphate acyltransferase [EC:2.3.1.274]"
+  },
+  "K02078": {
+    "id": "K02078",
+    "name": "acyl carrier protein"
+  },
+  "K03685": {
+    "id": "K03685",
+    "name": "ribonuclease III [EC:3.1.26.3]"
+  },
+  "K03529": {
+    "id": "K03529",
+    "name": "chromosome segregation protein"
+  },
+  "K03110": {
+    "id": "K03110",
+    "name": "fused signal recognition particle receptor"
+  },
+  "K01754": {
+    "id": "K01754",
+    "name": "threonine dehydratase [EC:4.3.1.19]"
+  },
+  "K05942": {
+    "id": "K05942",
+    "name": "citrate (Re)-synthase [EC:2.3.3.3]"
+  },
+  "K00031": {
+    "id": "K00031",
+    "name": "isocitrate dehydrogenase [EC:1.1.1.42]"
+  },
+  "K06158": {
+    "id": "K06158",
+    "name": "ATP-binding cassette, subfamily F, member 3"
+  },
+  "K01926": {
+    "id": "K01926",
+    "name": "redox-sensing transcriptional repressor"
+  },
+  "K23997": {
+    "id": "K23997",
+    "name": "ADP-dependent NAD(P)H-hydrate dehydratase / NAD(P)H-hydrate epimerase [EC:4.2.1.136 5.1.99.6]"
+  },
+  "K01775": {
+    "id": "K01775",
+    "name": "alanine racemase [EC:5.1.1.1]"
+  },
+  "K07171": {
+    "id": "K07171",
+    "name": "mRNA interferase MazF [EC:3.1.-.-]"
+  },
+  "K03699": {
+    "id": "K03699",
+    "name": "magnesium and cobalt exporter, CNNM family"
+  },
+  "K03466": {
+    "id": "K03466",
+    "name": "DNA segregation ATPase FtsK/SpoIIIE, S-DNA-T family"
+  },
+  "K01938": {
+    "id": "K01938",
+    "name": "formate--tetrahydrofolate ligase [EC:6.3.4.3]"
+  },
+  "K00528": {
+    "id": "K00528",
+    "name": "ferredoxin/flavodoxin---NADP+ reductase [EC:1.18.1.2 1.19.1.1]"
+  },
+  "K07238": {
+    "id": "K07238",
+    "name": "zinc transporter, ZIP family"
+  },
+  "K00783": {
+    "id": "K00783",
+    "name": "23S rRNA (pseudouridine1915-N3)-methyltransferase [EC:2.1.1.177]"
+  },
+  "K01297": {
+    "id": "K01297",
+    "name": "muramoyltetrapeptide carboxypeptidase [EC:3.4.17.13]"
+  },
+  "K06438": {
+    "id": "K06438",
+    "name": "similar to stage IV sporulation protein"
+  },
+  "K06217": {
+    "id": "K06217",
+    "name": "phosphate starvation-inducible protein PhoH and related proteins"
+  },
+  "K07042": {
+    "id": "K07042",
+    "name": "probable rRNA maturation factor"
+  },
+  "K06409": {
+    "id": "K06409",
+    "name": "stage V sporulation protein B"
+  },
+  "K01934": {
+    "id": "K01934",
+    "name": "5-formyltetrahydrofolate cyclo-ligase [EC:6.3.3.2]"
+  },
+  "K06168": {
+    "id": "K06168",
+    "name": "tRNA-2-methylthio-N6-dimethylallyladenosine synthase [EC:2.8.4.3]"
+  },
+  "K03555": {
+    "id": "K03555",
+    "name": "DNA mismatch repair protein MutS"
+  },
+  "K03572": {
+    "id": "K03572",
+    "name": "DNA mismatch repair protein MutL"
+  },
+  "K00791": {
+    "id": "K00791",
+    "name": "tRNA dimethylallyltransferase [EC:2.5.1.75]"
+  },
+  "K07007": {
+    "id": "K07007",
+    "name": "3-dehydro-bile acid Delta4,6-reductase [EC:1.3.1.114]"
+  },
+  "K03630": {
+    "id": "K03630",
+    "name": "DNA repair protein RadC"
+  },
+  "K03569": {
+    "id": "K03569",
+    "name": "rod shape-determining protein MreB and related proteins"
+  },
+  "K03570": {
+    "id": "K03570",
+    "name": "rod shape-determining protein MreC"
+  },
+  "K03571": {
+    "id": "K03571",
+    "name": "rod shape-determining protein MreD"
+  },
+  "K05515": {
+    "id": "K05515",
+    "name": "penicillin-binding protein 2 [EC:3.4.16.4]"
+  },
+  "K03610": {
+    "id": "K03610",
+    "name": "septum site-determining protein MinC"
+  },
+  "K03609": {
+    "id": "K03609",
+    "name": "septum site-determining protein MinD"
+  },
+  "K03608": {
+    "id": "K03608",
+    "name": "cell division topological specificity factor"
+  },
+  "K05837": {
+    "id": "K05837",
+    "name": "peptidoglycan glycosyltransferase [EC:2.4.99.28]"
+  },
+  "K01734": {
+    "id": "K01734",
+    "name": "methylglyoxal synthase [EC:4.2.3.3]"
+  },
+  "K09779": {
+    "id": "K09779",
+    "name": "uncharacterized protein"
+  },
+  "K06997": {
+    "id": "K06997",
+    "name": "PLP dependent protein"
+  },
+  "K09772": {
+    "id": "K09772",
+    "name": "cell division inhibitor SepF"
+  },
+  "K14058": {
+    "id": "K14058",
+    "name": "tRNA 2-thiocytidine biosynthesis protein TtcA"
+  },
+  "K03733": {
+    "id": "K03733",
+    "name": "integrase/recombinase XerC"
+  },
+  "K01356": {
+    "id": "K01356",
+    "name": "repressor LexA [EC:3.4.21.88]"
+  },
+  "K09710": {
+    "id": "K09710",
+    "name": "ribosome-associated protein"
+  },
+  "K00969": {
+    "id": "K00969",
+    "name": "nicotinate-nucleotide adenylyltransferase [EC:2.7.7.18]"
+  },
+  "K07574": {
+    "id": "K07574",
+    "name": "RNA-binding protein"
+  },
+  "K03979": {
+    "id": "K03979",
+    "name": "GTPase [EC:3.6.5.-]"
+  },
+  "K02899": {
+    "id": "K02899",
+    "name": "large subunit ribosomal protein L27"
+  },
+  "K07584": {
+    "id": "K07584",
+    "name": "uncharacterized protein"
+  },
+  "K02888": {
+    "id": "K02888",
+    "name": "large subunit ribosomal protein L21"
+  },
+  "K07045": {
+    "id": "K07045",
+    "name": "uncharacterized protein"
+  },
+  "K00928": {
+    "id": "K00928",
+    "name": "aspartate kinase [EC:2.7.2.4]"
+  },
+  "K03976": {
+    "id": "K03976",
+    "name": "Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase [EC:3.1.1.-]"
+  },
+  "K00067": {
+    "id": "K00067",
+    "name": "dTDP-4-dehydrorhamnose reductase [EC:1.1.1.133]"
+  },
+  "K11755": {
+    "id": "K11755",
+    "name": "phosphoribosyl-AMP cyclohydrolase / phosphoribosyl-ATP pyrophosphohydrolase [EC:3.5.4.19 3.6.1.31]"
+  },
+  "K01693": {
+    "id": "K01693",
+    "name": "imidazoleglycerol-phosphate dehydratase [EC:4.2.1.19]"
+  },
+  "K00013": {
+    "id": "K00013",
+    "name": "histidinol dehydrogenase [EC:1.1.1.23]"
+  },
+  "K00765": {
+    "id": "K00765",
+    "name": "ATP phosphoribosyltransferase [EC:2.4.2.17]"
+  },
+  "K02502": {
+    "id": "K02502",
+    "name": "ATP phosphoribosyltransferase regulatory subunit"
+  },
+  "K03700": {
+    "id": "K03700",
+    "name": "recombination protein U"
+  },
+  "K06179": {
+    "id": "K06179",
+    "name": "23S rRNA pseudouridine955/2504/2580 synthase [EC:5.4.99.24]"
+  },
+  "K07124": {
+    "id": "K07124",
+    "name": "uncharacterized protein"
+  },
+  "K06183": {
+    "id": "K06183",
+    "name": "16S rRNA pseudouridine516 synthase [EC:5.4.99.19]"
+  },
+  "K01270": {
+    "id": "K01270",
+    "name": "dipeptidase D [EC:3.4.13.-]"
+  },
+  "K00954": {
+    "id": "K00954",
+    "name": "pantetheine-phosphate adenylyltransferase [EC:2.7.7.3]"
+  },
+  "K08316": {
+    "id": "K08316",
+    "name": "16S rRNA (guanine966-N2)-methyltransferase [EC:2.1.1.171]"
+  },
+  "K06287": {
+    "id": "K06287",
+    "name": "nucleoside triphosphate pyrophosphatase [EC:3.6.1.-]"
+  },
+  "K03294": {
+    "id": "K03294",
+    "name": "basic amino acid/polyamine antiporter, APA family"
+  },
+  "K01872": {
+    "id": "K01872",
+    "name": "alanyl-tRNA synthetase [EC:6.1.1.7]"
+  },
+  "K00548": {
+    "id": "K00548",
+    "name": "5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]"
+  },
+  "K00703": {
+    "id": "K00703",
+    "name": "starch synthase [EC:2.4.1.21]"
+  },
+  "K06399": {
+    "id": "K06399",
+    "name": "stage IV sporulation protein B [EC:3.4.21.116]"
+  },
+  "K03631": {
+    "id": "K03631",
+    "name": "DNA repair protein RecN (Recombination protein N)"
+  },
+  "K03402": {
+    "id": "K03402",
+    "name": "transcriptional regulator of arginine metabolism"
+  },
+  "K00858": {
+    "id": "K00858",
+    "name": "NAD+ kinase [EC:2.7.1.23]"
+  },
+  "K06442": {
+    "id": "K06442",
+    "name": "23S rRNA (cytidine1920-2'-O)/16S rRNA (cytidine1409-2'-O)-methyltransferase [EC:2.1.1.226 2.1.1.227]"
+  },
+  "K01662": {
+    "id": "K01662",
+    "name": "1-deoxy-D-xylulose-5-phosphate synthase [EC:2.2.1.7]"
+  },
+  "K13789": {
+    "id": "K13789",
+    "name": "geranylgeranyl diphosphate synthase, type II [EC:2.5.1.1 2.5.1.10 2.5.1.29]"
+  },
+  "K03602": {
+    "id": "K03602",
+    "name": "exodeoxyribonuclease VII small subunit [EC:3.1.11.6]"
+  },
+  "K03601": {
+    "id": "K03601",
+    "name": "exodeoxyribonuclease VII large subunit [EC:3.1.11.6]"
+  },
+  "K03625": {
+    "id": "K03625",
+    "name": "transcription antitermination protein NusB"
+  },
+  "K02837": {
+    "id": "K02837",
+    "name": "peptide chain release factor 3"
+  },
+  "K06397": {
+    "id": "K06397",
+    "name": "stage III sporulation protein AH"
+  },
+  "K06396": {
+    "id": "K06396",
+    "name": "stage III sporulation protein AG"
+  },
+  "K06395": {
+    "id": "K06395",
+    "name": "stage III sporulation protein AF"
+  },
+  "K06394": {
+    "id": "K06394",
+    "name": "stage III sporulation protein AE"
+  },
+  "K06393": {
+    "id": "K06393",
+    "name": "stage III sporulation protein AD"
+  },
+  "K06392": {
+    "id": "K06392",
+    "name": "stage III sporulation protein AC"
+  },
+  "K06391": {
+    "id": "K06391",
+    "name": "stage III sporulation protein AB"
+  },
+  "K06390": {
+    "id": "K06390",
+    "name": "stage III sporulation protein AA"
+  },
+  "K07098": {
+    "id": "K07098",
+    "name": "uncharacterized protein"
+  },
+  "K00962": {
+    "id": "K00962",
+    "name": "polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]"
+  },
+  "K02956": {
+    "id": "K02956",
+    "name": "small subunit ribosomal protein S15"
+  },
+  "K03324": {
+    "id": "K03324",
+    "name": "phosphate:Na+ symporter"
+  },
+  "K11753": {
+    "id": "K11753",
+    "name": "riboflavin kinase / FMN adenylyltransferase [EC:2.7.1.26 2.7.7.2]"
+  },
+  "K03177": {
+    "id": "K03177",
+    "name": "tRNA pseudouridine55 synthase [EC:5.4.99.25]"
+  },
+  "K06881": {
+    "id": "K06881",
+    "name": "bifunctional oligoribonuclease and PAP phosphatase NrnA [EC:3.1.3.7 3.1.13.3]"
+  },
+  "K02834": {
+    "id": "K02834",
+    "name": "ribosome-binding factor A"
+  },
+  "K02519": {
+    "id": "K02519",
+    "name": "translation initiation factor IF-2"
+  },
+  "K07742": {
+    "id": "K07742",
+    "name": "uncharacterized protein"
+  },
+  "K02600": {
+    "id": "K02600",
+    "name": "transcription termination/antitermination protein NusA"
+  },
+  "K09748": {
+    "id": "K09748",
+    "name": "ribosome maturation factor RimP"
+  },
+  "K03426": {
+    "id": "K03426",
+    "name": "NAD+ diphosphatase [EC:3.6.1.22]"
+  },
+  "K06385": {
+    "id": "K06385",
+    "name": "stage II sporulation protein P"
+  },
+  "K06012": {
+    "id": "K06012",
+    "name": "spore protease [EC:3.4.24.78]"
+  },
+  "K02968": {
+    "id": "K02968",
+    "name": "small subunit ribosomal protein S20"
+  },
+  "K00053": {
+    "id": "K00053",
+    "name": "ketol-acid reductoisomerase [EC:1.1.1.86]"
+  },
+  "K01653": {
+    "id": "K01653",
+    "name": "acetolactate synthase I/III small subunit [EC:2.2.1.6]"
+  },
+  "K01091": {
+    "id": "K01091",
+    "name": "phosphoglycolate phosphatase [EC:3.1.3.18]"
+  },
+  "K15633": {
+    "id": "K15633",
+    "name": "2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12]"
+  },
+  "K01803": {
+    "id": "K01803",
+    "name": "triosephosphate isomerase (TIM) [EC:5.3.1.1]"
+  },
+  "K00927": {
+    "id": "K00927",
+    "name": "phosphoglycerate kinase [EC:2.7.2.3]"
+  },
+  "K00134": {
+    "id": "K00134",
+    "name": "glyceraldehyde 3-phosphate dehydrogenase (phosphorylating) [EC:1.2.1.12]"
+  },
+  "K04486": {
+    "id": "K04486",
+    "name": "histidinol-phosphatase (PHP family) [EC:3.1.3.15]"
+  },
+  "K00566": {
+    "id": "K00566",
+    "name": "tRNA-uridine 2-sulfurtransferase [EC:2.8.1.13]"
+  },
+  "K04488": {
+    "id": "K04488",
+    "name": "nitrogen fixation protein NifU and related proteins"
+  },
+  "K04487": {
+    "id": "K04487",
+    "name": "cysteine desulfurase [EC:2.8.1.7]"
+  },
+  "K13643": {
+    "id": "K13643",
+    "name": "Rrf2 family transcriptional regulator, iron-sulfur cluster assembly transcription factor"
+  },
+  "K06384": {
+    "id": "K06384",
+    "name": "stage II sporulation protein M"
+  },
+  "K01515": {
+    "id": "K01515",
+    "name": "ADP-ribose diphosphatase [EC:3.6.1.13 3.6.1.-]"
+  },
+  "K00812": {
+    "id": "K00812",
+    "name": "aspartate aminotransferase [EC:2.6.1.1]"
+  },
+  "K18682": {
+    "id": "K18682",
+    "name": "ribonucrease Y [EC:3.1.-.-]"
+  },
+  "K03565": {
+    "id": "K03565",
+    "name": "regulatory protein"
+  },
+  "K03553": {
+    "id": "K03553",
+    "name": "recombination protein RecA"
+  },
+  "K00661": {
+    "id": "K00661",
+    "name": "maltose O-acetyltransferase [EC:2.3.1.79]"
+  },
+  "K07258": {
+    "id": "K07258",
+    "name": "serine-type D-Ala-D-Ala carboxypeptidase (penicillin-binding protein 5/6) [EC:3.4.16.4]"
+  },
+  "K06024": {
+    "id": "K06024",
+    "name": "segregation and condensation protein B"
+  },
+  "K05896": {
+    "id": "K05896",
+    "name": "segregation and condensation protein A"
+  },
+  "K03655": {
+    "id": "K03655",
+    "name": "ATP-dependent DNA helicase RecG [EC:5.6.2.4]"
+  },
+  "K07030": {
+    "id": "K07030",
+    "name": "fatty acid kinase [EC:2.7.2.18]"
+  },
+  "K02902": {
+    "id": "K02902",
+    "name": "large subunit ribosomal protein L28"
+  },
+  "K05364": {
+    "id": "K05364",
+    "name": "penicillin-binding protein A"
+  },
+  "K08303": {
+    "id": "K08303",
+    "name": "U32 family peptidase [EC:3.4.-.-]"
+  },
+  "K09888": {
+    "id": "K09888",
+    "name": "cell division protein ZapA"
+  },
+  "K03551": {
+    "id": "K03551",
+    "name": "holliday junction DNA helicase RuvB [EC:5.6.2.4]"
+  },
+  "K03550": {
+    "id": "K03550",
+    "name": "holliday junction DNA helicase RuvA"
+  },
+  "K03734": {
+    "id": "K03734",
+    "name": "FAD:protein FMN transferase [EC:2.7.1.180]"
+  },
+  "K03616": {
+    "id": "K03616",
+    "name": "H+/Na+-translocating ferredoxin:NAD+ oxidoreductase subunit B [EC:7.1.1.11 7.2.1.2]"
+  },
+  "K03617": {
+    "id": "K03617",
+    "name": "H+/Na+-translocating ferredoxin:NAD+ oxidoreductase subunit A"
+  },
+  "K03613": {
+    "id": "K03613",
+    "name": "H+/Na+-translocating ferredoxin:NAD+ oxidoreductase subunit E"
+  },
+  "K03612": {
+    "id": "K03612",
+    "name": "H+/Na+-translocating ferredoxin:NAD+ oxidoreductase subunit G"
+  },
+  "K03614": {
+    "id": "K03614",
+    "name": "H+/Na+-translocating ferredoxin:NAD+ oxidoreductase subunit D [EC:7.1.1.11 7.2.1.2]"
+  },
+  "K03615": {
+    "id": "K03615",
+    "name": "H+/Na+-translocating ferredoxin:NAD+ oxidoreductase subunit C [EC:7.1.1.11 7.2.1.2]"
+  },
+  "K03527": {
+    "id": "K03527",
+    "name": "4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase [EC:1.17.7.4]"
+  },
+  "K00945": {
+    "id": "K00945",
+    "name": "CMP/dCMP kinase [EC:2.7.4.25]"
+  },
+  "K01571": {
+    "id": "K01571",
+    "name": "oxaloacetate decarboxylase (Na+ extruding) subunit alpha [EC:7.2.4.2]"
+  },
+  "K23351": {
+    "id": "K23351",
+    "name": "glutaconyl-CoA/methylmalonyl-CoA decarboxylase subunit gamma"
+  },
+  "K23352": {
+    "id": "K23352",
+    "name": "glutaconyl-CoA/methylmalonyl-CoA decarboxylase subunit delta"
+  },
+  "K01604": {
+    "id": "K01604",
+    "name": "methylmalonyl-CoA decarboxylase subunit alpha [EC:7.2.4.3]"
+  },
+  "K01649": {
+    "id": "K01649",
+    "name": "2-isopropylmalate synthase [EC:2.3.3.13]"
+  },
+  "K00020": {
+    "id": "K00020",
+    "name": "3-hydroxyisobutyrate dehydrogenase [EC:1.1.1.31]"
+  },
+  "K23144": {
+    "id": "K23144",
+    "name": "UDP-N-acetylglucosamine diphosphorylase / glucose-1-phosphate thymidylyltransferase / UDP-N-acetylgalactosamine diphosphorylase / glucosamine-1-phosphate N-acetyltransferase / galactosamine-1-phosphate N-acetyltransferase [EC:2.7.7.23 2.7.7.24 2.7.7.83 2.3.1.157 2.3.1.276]"
+  },
+  "K00937": {
+    "id": "K00937",
+    "name": "polyphosphate kinase [EC:2.7.4.1]"
+  },
+  "K00133": {
+    "id": "K00133",
+    "name": "aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]"
+  },
+  "K01755": {
+    "id": "K01755",
+    "name": "argininosuccinate lyase [EC:4.3.2.1]"
+  },
+  "K09765": {
+    "id": "K09765",
+    "name": "epoxyqueuosine reductase [EC:1.17.99.6]"
+  },
+  "K19309": {
+    "id": "K19309",
+    "name": "bacitracin transport system ATP-binding protein"
+  },
+  "K19310": {
+    "id": "K19310",
+    "name": "bacitracin transport system permease protein"
+  },
+  "K03442": {
+    "id": "K03442",
+    "name": "small conductance mechanosensitive channel"
+  },
+  "K05810": {
+    "id": "K05810",
+    "name": "purine-nucleoside/S-methyl-5'-thioadenosine phosphorylase / adenosine deaminase [EC:2.4.2.1 2.4.2.28 3.5.4.4]"
+  },
+  "K07460": {
+    "id": "K07460",
+    "name": "putative endonuclease"
+  },
+  "K03470": {
+    "id": "K03470",
+    "name": "ribonuclease HII [EC:3.1.26.4]"
+  },
+  "K03100": {
+    "id": "K03100",
+    "name": "signal peptidase I [EC:3.4.21.89]"
+  },
+  "K14540": {
+    "id": "K14540",
+    "name": "ribosome biogenesis GTPase A"
+  },
+  "K02884": {
+    "id": "K02884",
+    "name": "large subunit ribosomal protein L19"
+  },
+  "K00554": {
+    "id": "K00554",
+    "name": "tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228]"
+  },
+  "K02860": {
+    "id": "K02860",
+    "name": "16S rRNA processing protein RimM"
+  },
+  "K06960": {
+    "id": "K06960",
+    "name": "uncharacterized protein"
+  },
+  "K02959": {
+    "id": "K02959",
+    "name": "small subunit ribosomal protein S16"
+  },
+  "K03106": {
+    "id": "K03106",
+    "name": "signal recognition particle subunit SRP54 [EC:3.6.5.4]"
+  },
+  "K09787": {
+    "id": "K09787",
+    "name": "uncharacterized protein"
+  },
+  "K17734": {
+    "id": "K17734",
+    "name": "serine protease AprX [EC:3.4.21.-]"
+  },
+  "K07646": {
+    "id": "K07646",
+    "name": "two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]"
+  },
+  "K01548": {
+    "id": "K01548",
+    "name": "potassium-transporting ATPase KdpC subunit"
+  },
+  "K01547": {
+    "id": "K01547",
+    "name": "potassium-transporting ATPase ATP-binding subunit [EC:7.2.2.6]"
+  },
+  "K01546": {
+    "id": "K01546",
+    "name": "potassium-transporting ATPase potassium-binding subunit"
+  },
+  "K06173": {
+    "id": "K06173",
+    "name": "tRNA pseudouridine38-40 synthase [EC:5.4.99.12]"
+  },
+  "K01867": {
+    "id": "K01867",
+    "name": "tryptophanyl-tRNA synthetase [EC:6.1.1.2]"
+  },
+  "K07173": {
+    "id": "K07173",
+    "name": "S-ribosylhomocysteine lyase [EC:4.4.1.21]"
+  },
+  "K01897": {
+    "id": "K01897",
+    "name": "long-chain-fatty-acid---CoA ligase [EC:6.2.1.3]"
+  },
+  "K19661": {
+    "id": "K19661",
+    "name": "two-component system, NtrC family, sensor histidine kinase HupT/HoxJ [EC:2.7.13.3]"
+  },
+  "K06199": {
+    "id": "K06199",
+    "name": "fluoride exporter"
+  },
+  "K08281": {
+    "id": "K08281",
+    "name": "nicotinamidase/pyrazinamidase [EC:3.5.1.19 3.5.1.-]"
+  },
+  "K02887": {
+    "id": "K02887",
+    "name": "large subunit ribosomal protein L20"
+  },
+  "K02916": {
+    "id": "K02916",
+    "name": "large subunit ribosomal protein L35"
+  },
+  "K02520": {
+    "id": "K02520",
+    "name": "translation initiation factor IF-3"
+  },
+  "K03282": {
+    "id": "K03282",
+    "name": "large conductance mechanosensitive channel"
+  },
+  "K06408": {
+    "id": "K06408",
+    "name": "stage V sporulation protein AF"
+  },
+  "K01520": {
+    "id": "K01520",
+    "name": "dUTP diphosphatase [EC:3.6.1.23]"
+  },
+  "K05833": {
+    "id": "K05833",
+    "name": "putative tryptophan/tyrosine transport system ATP-binding protein"
+  },
+  "K05832": {
+    "id": "K05832",
+    "name": "putative tryptophan/tyrosine transport system permease protein"
+  },
+  "K01989": {
+    "id": "K01989",
+    "name": "putative tryptophan/tyrosine transport system substrate-binding protein"
+  },
+  "K01491": {
+    "id": "K01491",
+    "name": "methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9]"
+  },
+  "K01500": {
+    "id": "K01500",
+    "name": "methenyltetrahydrofolate cyclohydrolase [EC:3.5.4.9]"
+  },
+  "K00283": {
+    "id": "K00283",
+    "name": "glycine cleavage system P protein (glycine dehydrogenase) subunit 2 [EC:1.4.4.2]"
+  },
+  "K00282": {
+    "id": "K00282",
+    "name": "glycine cleavage system P protein (glycine dehydrogenase) subunit 1 [EC:1.4.4.2]"
+  },
+  "K02437": {
+    "id": "K02437",
+    "name": "glycine cleavage system H protein"
+  },
+  "K00605": {
+    "id": "K00605",
+    "name": "glycine cleavage system T protein (aminomethyltransferase) [EC:2.1.2.10]"
+  },
+  "K00852": {
+    "id": "K00852",
+    "name": "ribokinase [EC:2.7.1.15]"
+  },
+  "K00651": {
+    "id": "K00651",
+    "name": "homoserine O-succinyltransferase/O-acetyltransferase [EC:2.3.1.46 2.3.1.31]"
+  },
+  "K01868": {
+    "id": "K01868",
+    "name": "threonyl-tRNA synthetase [EC:6.1.1.3]"
+  },
+  "K07107": {
+    "id": "K07107",
+    "name": "acyl-CoA thioester hydrolase [EC:3.1.2.-]"
+  },
+  "K01939": {
+    "id": "K01939",
+    "name": "adenylosuccinate synthase [EC:6.3.4.4]"
+  },
+  "K00375": {
+    "id": "K00375",
+    "name": "GntR family transcriptional regulator / MocR family aminotransferase"
+  },
+  "K01886": {
+    "id": "K01886",
+    "name": "glutaminyl-tRNA synthetase [EC:6.1.1.18]"
+  },
+  "K03091": {
+    "id": "K03091",
+    "name": "RNA polymerase sigma-E/F/G factor"
+  },
+  "K03218": {
+    "id": "K03218",
+    "name": "23S rRNA (guanosine2251-2'-O)-methyltransferase [EC:2.1.1.185]"
+  },
+  "K11145": {
+    "id": "K11145",
+    "name": "mini-ribonuclease III [EC:3.1.26.-]"
+  },
+  "K01883": {
+    "id": "K01883",
+    "name": "cysteinyl-tRNA synthetase [EC:6.1.1.16]"
+  },
+  "K00640": {
+    "id": "K00640",
+    "name": "serine O-acetyltransferase [EC:2.3.1.30]"
+  },
+  "K11689": {
+    "id": "K11689",
+    "name": "TRAP-type transport system small permease protein"
+  },
+  "K21395": {
+    "id": "K21395",
+    "name": "TRAP-type transport system periplasmic protein"
+  },
+  "K01770": {
+    "id": "K01770",
+    "name": "2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:4.6.1.12]"
+  },
+  "K00262": {
+    "id": "K00262",
+    "name": "glutamate dehydrogenase (NADP+) [EC:1.4.1.4]"
+  },
+  "K01952": {
+    "id": "K01952",
+    "name": "phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]"
+  },
+  "K10844": {
+    "id": "K10844",
+    "name": "DNA excision repair protein ERCC-2 [EC:5.6.2.3]"
+  },
+  "K00700": {
+    "id": "K00700",
+    "name": "1,4-alpha-glucan branching enzyme [EC:2.4.1.18]"
+  },
+  "K09022": {
+    "id": "K09022",
+    "name": "2-iminobutanoate/2-iminopropanoate deaminase [EC:3.5.99.10]"
+  },
+  "K25144": {
+    "id": "K25144",
+    "name": "linearmycin/streptolysin S transport system ATP-binding protein"
+  },
+  "K25143": {
+    "id": "K25143",
+    "name": "linearmycin/streptolysin S transport system permease protein"
+  },
+  "K25142": {
+    "id": "K25142",
+    "name": "linearmycin/streptolysin S transport system permease protein"
+  },
+  "K04043": {
+    "id": "K04043",
+    "name": "molecular chaperone DnaK"
+  },
+  "K03687": {
+    "id": "K03687",
+    "name": "molecular chaperone GrpE"
+  },
+  "K03705": {
+    "id": "K03705",
+    "name": "heat-inducible transcriptional repressor"
+  },
+  "K03800": {
+    "id": "K03800",
+    "name": "lipoate---protein ligase [EC:6.3.1.20]"
+  },
+  "K00862": {
+    "id": "K00862",
+    "name": "erythritol kinase (D-erythritol 1-phosphate-forming) [EC:2.7.1.215]"
+  },
+  "K22132": {
+    "id": "K22132",
+    "name": "tRNA threonylcarbamoyladenosine dehydratase"
+  },
+  "K15986": {
+    "id": "K15986",
+    "name": "manganese-dependent inorganic pyrophosphatase [EC:3.6.1.1]"
+  },
+  "K01950": {
+    "id": "K01950",
+    "name": "NAD+ synthase (glutamine-hydrolysing) [EC:6.3.5.1]"
+  },
+  "K04083": {
+    "id": "K04083",
+    "name": "molecular chaperone Hsp33"
+  },
+  "K01421": {
+    "id": "K01421",
+    "name": "putative membrane protein"
+  },
+  "K07003": {
+    "id": "K07003",
+    "name": "uncharacterized protein"
+  },
+  "K00826": {
+    "id": "K00826",
+    "name": "branched-chain amino acid aminotransferase [EC:2.6.1.42]"
+  },
+  "K00287": {
+    "id": "K00287",
+    "name": "dihydrofolate reductase [EC:1.5.1.3]"
+  },
+  "K00560": {
+    "id": "K00560",
+    "name": "thymidylate synthase [EC:2.1.1.45]"
+  },
+  "K06075": {
+    "id": "K06075",
+    "name": "MarR family transcriptional regulator, transcriptional regulator for hemolysin"
+  },
+  "K00003": {
+    "id": "K00003",
+    "name": "homoserine dehydrogenase [EC:1.1.1.3]"
+  },
+  "K01892": {
+    "id": "K01892",
+    "name": "histidyl-tRNA synthetase [EC:6.1.1.21]"
+  },
+  "K01069": {
+    "id": "K01069",
+    "name": "hydroxyacylglutathione hydrolase [EC:3.1.2.6]"
+  },
+  "K01139": {
+    "id": "K01139",
+    "name": "GTP diphosphokinase / guanosine-3',5'-bis(diphosphate) 3'-diphosphatase [EC:2.7.6.5 3.1.7.2]"
+  },
+  "K00759": {
+    "id": "K00759",
+    "name": "adenine phosphoribosyltransferase [EC:2.4.2.7]"
+  },
+  "K07462": {
+    "id": "K07462",
+    "name": "single-stranded-DNA-specific exonuclease [EC:3.1.-.-]"
+  },
+  "K06871": {
+    "id": "K06871",
+    "name": "uncharacterized protein"
+  },
+  "K04769": {
+    "id": "K04769",
+    "name": "AbrB family transcriptional regulator, stage V sporulation protein T"
+  },
+  "K09117": {
+    "id": "K09117",
+    "name": "uncharacterized protein"
+  },
+  "K07533": {
+    "id": "K07533",
+    "name": "foldase protein PrsA [EC:5.2.1.8]"
+  },
+  "K03723": {
+    "id": "K03723",
+    "name": "transcription-repair coupling factor (superfamily II helicase) [EC:5.6.2.4]"
+  },
+  "K01056": {
+    "id": "K01056",
+    "name": "peptidyl-tRNA hydrolase, PTH1 family [EC:3.1.1.29]"
+  },
+  "K07576": {
+    "id": "K07576",
+    "name": "metallo-beta-lactamase family protein"
+  },
+  "K06383": {
+    "id": "K06383",
+    "name": "stage II sporulation protein GA (sporulation sigma-E factor processing peptidase) [EC:3.4.23.-]"
+  },
+  "K03531": {
+    "id": "K03531",
+    "name": "cell division protein FtsZ"
+  },
+  "K03589": {
+    "id": "K03589",
+    "name": "cell division protein FtsQ"
+  },
+  "K01925": {
+    "id": "K01925",
+    "name": "UDP-N-acetylmuramoylalanine--D-glutamate ligase [EC:6.3.2.9]"
+  },
+  "K01000": {
+    "id": "K01000",
+    "name": "phospho-N-acetylmuramoyl-pentapeptide-transferase [EC:2.7.8.13]"
+  },
+  "K08384": {
+    "id": "K08384",
+    "name": "stage V sporulation protein D (sporulation-specific penicillin-binding protein)"
+  },
+  "K03925": {
+    "id": "K03925",
+    "name": "transcriptional regulator MraZ"
+  },
+  "K17363": {
+    "id": "K17363",
+    "name": "urocanate reductase [EC:1.3.99.33]"
+  },
+  "K00600": {
+    "id": "K00600",
+    "name": "glycine hydroxymethyltransferase [EC:2.1.2.1]"
+  },
+  "K01887": {
+    "id": "K01887",
+    "name": "arginyl-tRNA synthetase [EC:6.1.1.19]"
+  },
+  "K02356": {
+    "id": "K02356",
+    "name": "elongation factor P"
+  },
+  "K00891": {
+    "id": "K00891",
+    "name": "shikimate kinase [EC:2.7.1.71]"
+  },
+  "K01447": {
+    "id": "K01447",
+    "name": "N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]"
+  },
+  "K01785": {
+    "id": "K01785",
+    "name": "aldose 1-epimerase [EC:5.1.3.3]"
+  },
+  "K04077": {
+    "id": "K04077",
+    "name": "chaperonin GroEL [EC:5.6.1.7]"
+  },
+  "K04078": {
+    "id": "K04078",
+    "name": "chaperonin GroES"
+  },
+  "K14122": {
+    "id": "K14122",
+    "name": "energy-converting hydrogenase B subunit M"
+  },
+  "K03706": {
+    "id": "K03706",
+    "name": "transcriptional pleiotropic repressor"
+  },
+  "K03168": {
+    "id": "K03168",
+    "name": "DNA topoisomerase I [EC:5.6.2.1]"
+  },
+  "K04096": {
+    "id": "K04096",
+    "name": "DNA processing protein"
+  },
+  "K07391": {
+    "id": "K07391",
+    "name": "magnesium chelatase family protein"
+  },
+  "K07717": {
+    "id": "K07717",
+    "name": "two-component system, sensor histidine kinase GlnK [EC:2.7.13.3]"
+  },
+  "K07719": {
+    "id": "K07719",
+    "name": "two-component system, response regulator GlnL"
+  },
+  "K12574": {
+    "id": "K12574",
+    "name": "ribonuclease J [EC:3.1.-.-]"
+  },
+  "K03711": {
+    "id": "K03711",
+    "name": "Fur family transcriptional regulator, ferric uptake regulator"
+  },
+  "K07447": {
+    "id": "K07447",
+    "name": "putative pre-16S rRNA nuclease [EC:3.1.-.-]"
+  },
+  "K03151": {
+    "id": "K03151",
+    "name": "tRNA uracil 4-sulfurtransferase [EC:2.8.1.4]"
+  },
+  "K09761": {
+    "id": "K09761",
+    "name": "16S rRNA (uracil1498-N3)-methyltransferase [EC:2.1.1.193]"
+  },
+  "K02687": {
+    "id": "K02687",
+    "name": "ribosomal protein L11 methyltransferase [EC:2.1.1.-]"
+  },
+  "K01488": {
+    "id": "K01488",
+    "name": "adenosine deaminase [EC:3.5.4.4]"
+  },
+  "K00537": {
+    "id": "K00537",
+    "name": "arsenate reductase (glutaredoxin) [EC:1.20.4.1]"
+  },
+  "K03311": {
+    "id": "K03311",
+    "name": "branched-chain amino acid:cation transporter, LIVCS family"
+  },
+  "K01567": {
+    "id": "K01567",
+    "name": "peptidoglycan-N-acetylmuramic acid deacetylase [EC:3.5.1.-]"
+  },
+  "K14591": {
+    "id": "K14591",
+    "name": "protein AroM"
+  },
+  "K00176": {
+    "id": "K00176",
+    "name": "2-oxoglutarate ferredoxin oxidoreductase subunit delta [EC:1.2.7.3]"
+  },
+  "K00177": {
+    "id": "K00177",
+    "name": "2-oxoglutarate ferredoxin oxidoreductase subunit gamma [EC:1.2.7.3]"
+  },
+  "K00929": {
+    "id": "K00929",
+    "name": "butyrate kinase [EC:2.7.2.7]"
+  },
+  "K00175": {
+    "id": "K00175",
+    "name": "2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta [EC:1.2.7.3 1.2.7.11]"
+  },
+  "K00174": {
+    "id": "K00174",
+    "name": "2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11]"
+  },
+  "K01005": {
+    "id": "K01005",
+    "name": "polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase [EC:2.7.8.-]"
+  },
+  "K01790": {
+    "id": "K01790",
+    "name": "dTDP-4-dehydrorhamnose 3,5-epimerase [EC:5.1.3.13]"
+  },
+  "K01710": {
+    "id": "K01710",
+    "name": "dTDP-glucose 4,6-dehydratase [EC:4.2.1.46]"
+  },
+  "K00973": {
+    "id": "K00973",
+    "name": "glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24]"
+  },
+  "K09691": {
+    "id": "K09691",
+    "name": "homopolymeric O-antigen transport system ATP-binding protein [EC:7.5.2.14]"
+  },
+  "K09690": {
+    "id": "K09690",
+    "name": "homopolymeric O-antigen transport system permease protein"
+  },
+  "K01002": {
+    "id": "K01002",
+    "name": "phosphoglycerol transferase [EC:2.7.8.20]"
+  },
+  "K20534": {
+    "id": "K20534",
+    "name": "polyisoprenyl-phosphate glycosyltransferase [EC:2.4.-.-]"
+  },
+  "K18672": {
+    "id": "K18672",
+    "name": "diadenylate cyclase [EC:2.7.7.85]"
+  },
+  "K03702": {
+    "id": "K03702",
+    "name": "excinuclease ABC subunit B"
+  },
+  "K20976": {
+    "id": "K20976",
+    "name": "histidine phosphotransfer protein HptB"
+  },
+  "K03978": {
+    "id": "K03978",
+    "name": "GTP-binding protein"
+  },
+  "K01338": {
+    "id": "K01338",
+    "name": "ATP-dependent Lon protease [EC:3.4.21.53]"
+  },
+  "K03152": {
+    "id": "K03152",
+    "name": "protein deglycase [EC:3.5.1.124]"
+  },
+  "K01768": {
+    "id": "K01768",
+    "name": "adenylate cyclase [EC:4.6.1.1]"
+  },
+  "K15635": {
+    "id": "K15635",
+    "name": "2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12]"
+  },
+  "K02836": {
+    "id": "K02836",
+    "name": "peptide chain release factor 2"
+  },
+  "K03070": {
+    "id": "K03070",
+    "name": "preprotein translocase subunit SecA [EC:7.4.2.8]"
+  },
+  "K01814": {
+    "id": "K01814",
+    "name": "phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase [EC:5.3.1.16]"
+  },
+  "K04041": {
+    "id": "K04041",
+    "name": "fructose-1,6-bisphosphatase III [EC:3.1.3.11]"
+  },
+  "K00215": {
+    "id": "K00215",
+    "name": "4-hydroxy-tetrahydrodipicolinate reductase [EC:1.17.1.8]"
+  },
+  "K01714": {
+    "id": "K01714",
+    "name": "4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7]"
+  },
+  "K06207": {
+    "id": "K06207",
+    "name": "GTP-binding protein"
+  },
+  "K05808": {
+    "id": "K05808",
+    "name": "ribosome hibernation promoting factor"
+  },
+  "K05366": {
+    "id": "K05366",
+    "name": "penicillin-binding protein 1A [EC:2.4.99.28 3.4.16.4]"
+  },
+  "K25026": {
+    "id": "K25026",
+    "name": "glucokinase [EC:2.7.1.2]"
+  },
+  "K06023": {
+    "id": "K06023",
+    "name": "HPr kinase/phosphorylase [EC:2.7.11.- 2.7.4.-]"
+  },
+  "K03703": {
+    "id": "K03703",
+    "name": "excinuclease ABC subunit C"
+  },
+  "K01937": {
+    "id": "K01937",
+    "name": "CTP synthase [EC:6.3.4.2]"
+  },
+  "K01854": {
+    "id": "K01854",
+    "name": "UDP-galactopyranose mutase [EC:5.4.99.9]"
+  },
+  "K06132": {
+    "id": "K06132",
+    "name": "cardiolipin synthase C [EC:2.7.8.-]"
+  },
+  "K08744": {
+    "id": "K08744",
+    "name": "cardiolipin synthase (CMP-forming) [EC:2.7.8.41]"
+  },
+  "K00633": {
+    "id": "K00633",
+    "name": "galactoside O-acetyltransferase [EC:2.3.1.18]"
+  },
+  "K01869": {
+    "id": "K01869",
+    "name": "leucyl-tRNA synthetase [EC:6.1.1.4]"
+  },
+  "K24180": {
+    "id": "K24180",
+    "name": "malate permease and related proteins"
+  },
+  "K02355": {
+    "id": "K02355",
+    "name": "elongation factor G"
+  },
+  "K04517": {
+    "id": "K04517",
+    "name": "prephenate dehydrogenase [EC:1.3.1.12]"
+  },
+  "K00800": {
+    "id": "K00800",
+    "name": "3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19]"
+  },
+  "K18332": {
+    "id": "K18332",
+    "name": "NADP-reducing hydrogenase subunit HndD [EC:1.12.1.3]"
+  },
+  "K18331": {
+    "id": "K18331",
+    "name": "NADP-reducing hydrogenase subunit HndC [EC:1.12.1.3]"
+  },
+  "K17992": {
+    "id": "K17992",
+    "name": "NADP-reducing hydrogenase subunit HndB [EC:1.12.1.3]"
+  },
+  "K18330": {
+    "id": "K18330",
+    "name": "NADP-reducing hydrogenase subunit HndA [EC:1.12.1.3]"
+  },
+  "K17752": {
+    "id": "K17752",
+    "name": "serine/threonine-protein kinase RsbT [EC:2.7.11.1]"
+  },
+  "K07053": {
+    "id": "K07053",
+    "name": "3',5'-nucleoside bisphosphate phosphatase [EC:3.1.3.97]"
+  },
+  "K01698": {
+    "id": "K01698",
+    "name": "porphobilinogen synthase [EC:4.2.1.24]"
+  },
+  "K13542": {
+    "id": "K13542",
+    "name": "uroporphyrinogen III methyltransferase / synthase [EC:2.1.1.107 4.2.1.75]"
+  },
+  "K24866": {
+    "id": "K24866",
+    "name": "precorrin-2 dehydrogenase [EC:1.3.1.76]"
+  },
+  "K00334": {
+    "id": "K00334",
+    "name": "NADH-quinone oxidoreductase subunit E [EC:7.1.1.2]"
+  },
+  "K02190": {
+    "id": "K02190",
+    "name": "sirohydrochlorin cobaltochelatase [EC:4.99.1.3]"
+  },
+  "K02006": {
+    "id": "K02006",
+    "name": "cobalt/nickel transport system ATP-binding protein"
+  },
+  "K02008": {
+    "id": "K02008",
+    "name": "cobalt/nickel transport system permease protein"
+  },
+  "K02009": {
+    "id": "K02009",
+    "name": "cobalt/nickel transport protein"
+  },
+  "K02007": {
+    "id": "K02007",
+    "name": "cobalt/nickel transport system permease protein"
+  },
+  "K06042": {
+    "id": "K06042",
+    "name": "precorrin-8X/cobalt-precorrin-8 methylmutase [EC:5.4.99.61 5.4.99.60]"
+  },
+  "K02232": {
+    "id": "K02232",
+    "name": "adenosylcobyric acid synthase [EC:6.3.5.10]"
+  },
+  "K02227": {
+    "id": "K02227",
+    "name": "adenosylcobinamide-phosphate synthase [EC:6.3.1.10]"
+  },
+  "K02226": {
+    "id": "K02226",
+    "name": "alpha-ribazole phosphatase [EC:3.1.3.73]"
+  },
+  "K02231": {
+    "id": "K02231",
+    "name": "adenosylcobinamide kinase / adenosylcobinamide-phosphate guanylyltransferase [EC:2.7.1.156 2.7.7.62]"
+  },
+  "K02233": {
+    "id": "K02233",
+    "name": "adenosylcobinamide-GDP ribazoletransferase [EC:2.7.8.26]"
+  },
+  "K00768": {
+    "id": "K00768",
+    "name": "nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase [EC:2.4.2.21]"
+  },
+  "K02224": {
+    "id": "K02224",
+    "name": "cobyrinic acid a,c-diamide synthase [EC:6.3.5.9 6.3.5.11]"
+  },
+  "K00595": {
+    "id": "K00595",
+    "name": "precorrin-6B C5,15-methyltransferase / cobalt-precorrin-6B C5,C15-methyltransferase [EC:2.1.1.132 2.1.1.289 2.1.1.196]"
+  },
+  "K05934": {
+    "id": "K05934",
+    "name": "precorrin-3B C17-methyltransferase / cobalt-factor III methyltransferase [EC:2.1.1.131 2.1.1.272]"
+  },
+  "K02189": {
+    "id": "K02189",
+    "name": "cobalt-precorrin 5A hydrolase [EC:3.7.1.12]"
+  },
+  "K05936": {
+    "id": "K05936",
+    "name": "precorrin-4/cobalt-precorrin-4 C11-methyltransferase [EC:2.1.1.133 2.1.1.271]"
+  },
+  "K03394": {
+    "id": "K03394",
+    "name": "precorrin-2/cobalt-factor-2 C20-methyltransferase [EC:2.1.1.130 2.1.1.151]"
+  },
+  "K02188": {
+    "id": "K02188",
+    "name": "cobalt-precorrin-5B (C1)-methyltransferase [EC:2.1.1.195]"
+  },
+  "K04565": {
+    "id": "K04565",
+    "name": "superoxide dismutase, Cu-Zn family [EC:1.15.1.1]"
+  },
+  "K02483": {
+    "id": "K02483",
+    "name": "two-component system, OmpR family, response regulator"
+  },
+  "K07386": {
+    "id": "K07386",
+    "name": "putative endopeptidase [EC:3.4.24.-]"
+  },
+  "K07568": {
+    "id": "K07568",
+    "name": "S-adenosylmethionine:tRNA ribosyltransferase-isomerase [EC:2.4.99.17]"
+  },
+  "K04773": {
+    "id": "K04773",
+    "name": "protease IV [EC:3.4.21.-]"
+  },
+  "K01890": {
+    "id": "K01890",
+    "name": "phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]"
+  },
+  "K01889": {
+    "id": "K01889",
+    "name": "phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]"
+  },
+  "K07058": {
+    "id": "K07058",
+    "name": "membrane protein"
+  },
+  "K06381": {
+    "id": "K06381",
+    "name": "stage II sporulation protein D (peptidoglycan lytic transglycosylase) [EC:4.2.2.29]"
+  },
+  "K01610": {
+    "id": "K01610",
+    "name": "phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]"
+  },
+  "K01733": {
+    "id": "K01733",
+    "name": "threonine synthase [EC:4.2.3.1]"
+  },
+  "K01704": {
+    "id": "K01704",
+    "name": "3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]"
+  },
+  "K01703": {
+    "id": "K01703",
+    "name": "3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]"
+  },
+  "K04759": {
+    "id": "K04759",
+    "name": "ferrous iron transport protein B"
+  },
+  "K01613": {
+    "id": "K01613",
+    "name": "phosphatidylserine decarboxylase [EC:4.1.1.65]"
+  },
+  "K17103": {
+    "id": "K17103",
+    "name": "CDP-diacylglycerol---serine O-phosphatidyltransferase [EC:2.7.8.8]"
+  },
+  "K07105": {
+    "id": "K07105",
+    "name": "uncharacterized protein"
+  },
+  "K00767": {
+    "id": "K00767",
+    "name": "nicotinate-nucleotide pyrophosphorylase (carboxylating) [EC:2.4.2.19]"
+  },
+  "K00278": {
+    "id": "K00278",
+    "name": "L-aspartate oxidase [EC:1.4.3.16]"
+  },
+  "K03517": {
+    "id": "K03517",
+    "name": "quinolinate synthase [EC:2.5.1.72]"
+  },
+  "K01501": {
+    "id": "K01501",
+    "name": "nitrilase [EC:3.5.5.1]"
+  },
+  "K03303": {
+    "id": "K03303",
+    "name": "lactate permease"
+  },
+  "K00171": {
+    "id": "K00171",
+    "name": "pyruvate ferredoxin oxidoreductase delta subunit [EC:1.2.7.1]"
+  },
+  "K01006": {
+    "id": "K01006",
+    "name": "pyruvate, orthophosphate dikinase [EC:2.7.9.1]"
+  },
+  "K07491": {
+    "id": "K07491",
+    "name": "REP-associated tyrosine transposase"
+  },
+  "K00639": {
+    "id": "K00639",
+    "name": "glycine C-acetyltransferase [EC:2.3.1.29]"
+  },
+  "K00060": {
+    "id": "K00060",
+    "name": "threonine 3-dehydrogenase [EC:1.1.1.103]"
+  },
+  "K01880": {
+    "id": "K01880",
+    "name": "glycyl-tRNA synthetase [EC:6.1.1.14]"
+  },
+  "K03584": {
+    "id": "K03584",
+    "name": "DNA repair protein RecO (recombination protein O)"
+  },
+  "K03595": {
+    "id": "K03595",
+    "name": "GTPase"
+  },
+  "K06972": {
+    "id": "K06972",
+    "name": "presequence protease [EC:3.4.24.-]"
+  },
+  "K18218": {
+    "id": "K18218",
+    "name": "tetracycline resistance efflux pump"
+  },
+  "K03737": {
+    "id": "K03737",
+    "name": "pyruvate-ferredoxin/flavodoxin oxidoreductase [EC:1.2.7.1 1.2.8.1]"
+  },
+  "K08986": {
+    "id": "K08986",
+    "name": "putative membrane protein"
+  },
+  "K15987": {
+    "id": "K15987",
+    "name": "K(+)-stimulated pyrophosphate-energized sodium pump [EC:7.2.3.1]"
+  },
+  "K16785": {
+    "id": "K16785",
+    "name": "energy-coupling factor transport system permease protein"
+  },
+  "K16787": {
+    "id": "K16787",
+    "name": "energy-coupling factor transport system ATP-binding protein [EC:7.-.-.-]"
+  },
+  "K16786": {
+    "id": "K16786",
+    "name": "energy-coupling factor transport system ATP-binding protein [EC:7.-.-.-]"
+  },
+  "K03768": {
+    "id": "K03768",
+    "name": "peptidyl-prolyl cis-trans isomerase B (cyclophilin B) [EC:5.2.1.8]"
+  },
+  "K01023": {
+    "id": "K01023",
+    "name": "arylsulfate sulfotransferase [EC:2.8.2.22]"
+  },
+  "K00286": {
+    "id": "K00286",
+    "name": "pyrroline-5-carboxylate reductase [EC:1.5.1.2]"
+  },
+  "K21636": {
+    "id": "K21636",
+    "name": "ribonucleoside-triphosphate reductase (formate) [EC:1.1.98.6]"
+  },
+  "K01512": {
+    "id": "K01512",
+    "name": "acylphosphatase [EC:3.6.1.7]"
+  },
+  "K23121": {
+    "id": "K23121",
+    "name": "trans-4-hydroxy-L-proline dehydratase [EC:4.2.1.172]"
+  },
+  "K01142": {
+    "id": "K01142",
+    "name": "exodeoxyribonuclease III [EC:3.1.11.2]"
+  },
+  "K07738": {
+    "id": "K07738",
+    "name": "transcriptional repressor NrdR"
+  },
+  "K09696": {
+    "id": "K09696",
+    "name": "sodium transport system permease protein"
+  },
+  "K09697": {
+    "id": "K09697",
+    "name": "sodium transport system ATP-binding protein [EC:7.2.2.4]"
+  },
+  "K05337": {
+    "id": "K05337",
+    "name": "ferredoxin"
+  },
+  "K16923": {
+    "id": "K16923",
+    "name": "energy-coupling factor transport system substrate-specific component"
+  },
+  "K05592": {
+    "id": "K05592",
+    "name": "ATP-dependent RNA helicase DeaD [EC:5.6.2.7]"
+  },
+  "K08981": {
+    "id": "K08981",
+    "name": "putative membrane protein"
+  },
+  "K09167": {
+    "id": "K09167",
+    "name": "uncharacterized protein"
+  },
+  "K01420": {
+    "id": "K01420",
+    "name": "CRP/FNR family transcriptional regulator, anaerobic regulatory protein"
+  },
+  "K01843": {
+    "id": "K01843",
+    "name": "lysine 2,3-aminomutase [EC:5.4.3.2]"
+  },
+  "K03574": {
+    "id": "K03574",
+    "name": "8-oxo-dGTP diphosphatase [EC:3.6.1.55]"
+  },
+  "K00261": {
+    "id": "K00261",
+    "name": "glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3]"
+  },
+  "K00111": {
+    "id": "K00111",
+    "name": "glycerol-3-phosphate dehydrogenase [EC:1.1.5.3]"
+  },
+  "K00864": {
+    "id": "K00864",
+    "name": "glycerol kinase [EC:2.7.1.30]"
+  },
+  "K00868": {
+    "id": "K00868",
+    "name": "pyridoxine kinase [EC:2.7.1.35]"
+  },
+  "K06864": {
+    "id": "K06864",
+    "name": "cysteine-dependent pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase [EC:4.4.1.37 4.4.1.45]"
+  },
+  "K06898": {
+    "id": "K06898",
+    "name": "pyridinium-3,5-biscarboxylic acid mononucleotide synthase [EC:2.5.1.143]"
+  },
+  "K03892": {
+    "id": "K03892",
+    "name": "ArsR family transcriptional regulator, arsenate/arsenite/antimonite-responsive transcriptional repressor"
+  },
+  "K05820": {
+    "id": "K05820",
+    "name": "MFS transporter, PPP family, 3-phenylpropionic acid transporter"
+  },
+  "K00008": {
+    "id": "K00008",
+    "name": "L-iditol 2-dehydrogenase [EC:1.1.1.14]"
+  },
+  "K00991": {
+    "id": "K00991",
+    "name": "2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase [EC:2.7.7.60]"
+  },
+  "K25706": {
+    "id": "K25706",
+    "name": "tRNA N6-adenosine threonylcarbamoyltransferase [EC:2.3.1.234]"
+  },
+  "K03789": {
+    "id": "K03789",
+    "name": "[ribosomal protein S18]-alanine N-acetyltransferase / [ribosomal protein L31]-L-lysine N-acetyltransferase [EC:2.3.1.266 2.3.1.338]"
+  },
+  "K01620": {
+    "id": "K01620",
+    "name": "threonine aldolase [EC:4.1.2.48]"
+  },
+  "K14742": {
+    "id": "K14742",
+    "name": "tRNA threonylcarbamoyladenosine biosynthesis protein TsaB"
+  },
+  "K06925": {
+    "id": "K06925",
+    "name": "tRNA threonylcarbamoyladenosine biosynthesis protein TsaE"
+  },
+  "K01759": {
+    "id": "K01759",
+    "name": "lactoylglutathione lyase [EC:4.4.1.5]"
+  },
+  "K06959": {
+    "id": "K06959",
+    "name": "protein Tex"
+  },
+  "K07216": {
+    "id": "K07216",
+    "name": "hemerythrin"
+  },
+  "K03575": {
+    "id": "K03575",
+    "name": "A/G-specific adenine glycosylase [EC:3.2.2.31]"
+  },
+  "K16179": {
+    "id": "K16179",
+    "name": "dimethylamine corrinoid protein"
+  },
+  "K15555": {
+    "id": "K15555",
+    "name": "sulfonate transport system ATP-binding protein [EC:7.6.2.14]"
+  },
+  "K16329": {
+    "id": "K16329",
+    "name": "pseudouridylate synthase [EC:4.2.1.70]"
+  },
+  "K18478": {
+    "id": "K18478",
+    "name": "sulfofructose kinase [EC:2.7.1.184]"
+  },
+  "K23060": {
+    "id": "K23060",
+    "name": "arginine/lysine/histidine transport system ATP-binding protein [EC:7.4.2.1]"
+  },
+  "K17077": {
+    "id": "K17077",
+    "name": "arginine/lysine/histidine transport system permease protein"
+  },
+  "K23059": {
+    "id": "K23059",
+    "name": "arginine/lysine/histidine transporter system substrate-binding protein"
+  },
+  "K06153": {
+    "id": "K06153",
+    "name": "undecaprenyl-diphosphatase [EC:3.6.1.27]"
+  },
+  "K04072": {
+    "id": "K04072",
+    "name": "acetaldehyde dehydrogenase / alcohol dehydrogenase [EC:1.2.1.10 1.1.1.1]"
+  },
+  "K02005": {
+    "id": "K02005",
+    "name": "HlyD family secretion protein"
+  },
+  "K02879": {
+    "id": "K02879",
+    "name": "large subunit ribosomal protein L17"
+  },
+  "K03040": {
+    "id": "K03040",
+    "name": "DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]"
+  },
+  "K02986": {
+    "id": "K02986",
+    "name": "small subunit ribosomal protein S4"
+  },
+  "K02948": {
+    "id": "K02948",
+    "name": "small subunit ribosomal protein S11"
+  },
+  "K02952": {
+    "id": "K02952",
+    "name": "small subunit ribosomal protein S13"
+  },
+  "K02518": {
+    "id": "K02518",
+    "name": "translation initiation factor IF-1"
+  },
+  "K00939": {
+    "id": "K00939",
+    "name": "adenylate kinase [EC:2.7.4.3]"
+  },
+  "K03076": {
+    "id": "K03076",
+    "name": "preprotein translocase subunit SecY"
+  },
+  "K02876": {
+    "id": "K02876",
+    "name": "large subunit ribosomal protein L15"
+  },
+  "K02907": {
+    "id": "K02907",
+    "name": "large subunit ribosomal protein L30"
+  },
+  "K02988": {
+    "id": "K02988",
+    "name": "small subunit ribosomal protein S5"
+  },
+  "K02881": {
+    "id": "K02881",
+    "name": "large subunit ribosomal protein L18"
+  },
+  "K02933": {
+    "id": "K02933",
+    "name": "large subunit ribosomal protein L6"
+  },
+  "K02994": {
+    "id": "K02994",
+    "name": "small subunit ribosomal protein S8"
+  },
+  "K02954": {
+    "id": "K02954",
+    "name": "small subunit ribosomal protein S14"
+  },
+  "K02931": {
+    "id": "K02931",
+    "name": "large subunit ribosomal protein L5"
+  },
+  "K02895": {
+    "id": "K02895",
+    "name": "large subunit ribosomal protein L24"
+  },
+  "K02874": {
+    "id": "K02874",
+    "name": "large subunit ribosomal protein L14"
+  },
+  "K02961": {
+    "id": "K02961",
+    "name": "small subunit ribosomal protein S17"
+  },
+  "K02904": {
+    "id": "K02904",
+    "name": "large subunit ribosomal protein L29"
+  },
+  "K02878": {
+    "id": "K02878",
+    "name": "large subunit ribosomal protein L16"
+  },
+  "K02982": {
+    "id": "K02982",
+    "name": "small subunit ribosomal protein S3"
+  },
+  "K02890": {
+    "id": "K02890",
+    "name": "large subunit ribosomal protein L22"
+  },
+  "K02965": {
+    "id": "K02965",
+    "name": "small subunit ribosomal protein S19"
+  },
+  "K02886": {
+    "id": "K02886",
+    "name": "large subunit ribosomal protein L2"
+  },
+  "K02892": {
+    "id": "K02892",
+    "name": "large subunit ribosomal protein L23"
+  },
+  "K02926": {
+    "id": "K02926",
+    "name": "large subunit ribosomal protein L4"
+  },
+  "K02906": {
+    "id": "K02906",
+    "name": "large subunit ribosomal protein L3"
+  },
+  "K02946": {
+    "id": "K02946",
+    "name": "small subunit ribosomal protein S10"
+  },
+  "K10794": {
+    "id": "K10794",
+    "name": "D-proline reductase (dithiol) PrdB [EC:1.21.4.1]"
+  },
+  "K01777": {
+    "id": "K01777",
+    "name": "proline racemase [EC:5.1.1.4]"
+  },
+  "K04085": {
+    "id": "K04085",
+    "name": "tRNA 2-thiouridine synthesizing protein A [EC:2.8.1.-]"
+  },
+  "K07112": {
+    "id": "K07112",
+    "name": "uncharacterized protein"
+  },
+  "K03833": {
+    "id": "K03833",
+    "name": "selenocysteine-specific elongation factor"
+  },
+  "K01042": {
+    "id": "K01042",
+    "name": "L-seryl-tRNA(Ser) seleniumtransferase [EC:2.9.1.1]"
+  },
+  "K01008": {
+    "id": "K01008",
+    "name": "selenide, water dikinase [EC:2.7.9.3]"
+  },
+  "K07816": {
+    "id": "K07816",
+    "name": "GTP pyrophosphokinase [EC:2.7.6.5]"
+  },
+  "K19221": {
+    "id": "K19221",
+    "name": "cob(I)alamin adenosyltransferase [EC:2.5.1.17]"
+  },
+  "K07035": {
+    "id": "K07035",
+    "name": "uncharacterized protein"
+  },
+  "K06407": {
+    "id": "K06407",
+    "name": "stage V sporulation protein AE"
+  },
+  "K06406": {
+    "id": "K06406",
+    "name": "stage V sporulation protein AD"
+  },
+  "K06405": {
+    "id": "K06405",
+    "name": "stage V sporulation protein AC"
+  },
+  "K06404": {
+    "id": "K06404",
+    "name": "stage V sporulation protein AB"
+  },
+  "K06403": {
+    "id": "K06403",
+    "name": "stage V sporulation protein AA"
+  },
+  "K06379": {
+    "id": "K06379",
+    "name": "stage II sporulation protein AB (anti-sigma F factor) [EC:2.7.11.1]"
+  },
+  "K06378": {
+    "id": "K06378",
+    "name": "stage II sporulation protein AA (anti-sigma F factor antagonist)"
+  },
+  "K11754": {
+    "id": "K11754",
+    "name": "dihydrofolate synthase / folylpolyglutamate synthase [EC:6.3.2.12 6.3.2.17]"
+  },
+  "K01873": {
+    "id": "K01873",
+    "name": "valyl-tRNA synthetase [EC:6.1.1.9]"
+  },
+  "K02669": {
+    "id": "K02669",
+    "name": "twitching motility protein PilT"
+  },
+  "K02652": {
+    "id": "K02652",
+    "name": "type IV pilus assembly protein PilB"
+  },
+  "K02653": {
+    "id": "K02653",
+    "name": "type IV pilus assembly protein PilC"
+  },
+  "K02654": {
+    "id": "K02654",
+    "name": "leader peptidase (prepilin peptidase) / N-methyltransferase [EC:3.4.23.43 2.1.1.-]"
+  },
+  "K02650": {
+    "id": "K02650",
+    "name": "type IV pilus assembly protein PilA"
+  },
+  "K12410": {
+    "id": "K12410",
+    "name": "NAD-dependent protein deacetylase/lipoamidase [EC:2.3.1.286 2.3.1.313]"
+  },
+  "K00459": {
+    "id": "K00459",
+    "name": "nitronate monooxygenase [EC:1.13.12.16]"
+  },
+  "K04104": {
+    "id": "K04104",
+    "name": "acyl-CoA carboxylase subunit beta [EC:6.4.1.-]"
+  },
+  "K01961": {
+    "id": "K01961",
+    "name": "acetyl-CoA carboxylase, biotin carboxylase subunit [EC:6.4.1.2 6.3.4.14]"
+  },
+  "K02372": {
+    "id": "K02372",
+    "name": "3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59]"
+  },
+  "K02160": {
+    "id": "K02160",
+    "name": "acetyl-CoA carboxylase biotin carboxyl carrier protein"
+  },
+  "K09458": {
+    "id": "K09458",
+    "name": "3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179]"
+  },
+  "K00645": {
+    "id": "K00645",
+    "name": "[acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39]"
+  },
+  "K02371": {
+    "id": "K02371",
+    "name": "enoyl-[acyl-carrier protein] reductase II [EC:1.3.1.9]"
+  },
+  "K00648": {
+    "id": "K00648",
+    "name": "3-oxoacyl-[acyl-carrier-protein] synthase III [EC:2.3.1.180]"
+  },
+  "K20461": {
+    "id": "K20461",
+    "name": "lantibiotic transport system permease protein"
+  },
+  "K20460": {
+    "id": "K20460",
+    "name": "lantibiotic transport system permease protein"
+  },
+  "K20459": {
+    "id": "K20459",
+    "name": "lantibiotic transport system ATP-binding protein"
+  },
+  "K01752": {
+    "id": "K01752",
+    "name": "L-serine dehydratase [EC:4.3.1.17]"
+  },
+  "K07033": {
+    "id": "K07033",
+    "name": "uncharacterized protein"
+  },
+  "K09013": {
+    "id": "K09013",
+    "name": "Fe-S cluster assembly ATP-binding protein"
+  },
+  "K00336": {
+    "id": "K00336",
+    "name": "NADH-quinone oxidoreductase subunit G [EC:7.1.1.2]"
+  },
+  "K01519": {
+    "id": "K01519",
+    "name": "XTP/dITP diphosphohydrolase [EC:3.6.1.66]"
+  },
+  "K07444": {
+    "id": "K07444",
+    "name": "putative N6-adenine-specific DNA methylase [EC:2.1.1.-]"
+  },
+  "K01624": {
+    "id": "K01624",
+    "name": "fructose-bisphosphate aldolase, class II [EC:4.1.2.13]"
+  },
+  "K09988": {
+    "id": "K09988",
+    "name": "D-lyxose ketol-isomerase [EC:5.3.1.15]"
+  },
+  "K19337": {
+    "id": "K19337",
+    "name": "RpiR family transcriptional regulator, carbohydrate utilization regulator"
+  },
+  "K00918": {
+    "id": "K00918",
+    "name": "ADP-dependent phosphofructokinase/glucokinase [EC:2.7.1.146 2.7.1.147]"
+  },
+  "K07029": {
+    "id": "K07029",
+    "name": "diacylglycerol kinase (ATP) [EC:2.7.1.107]"
+  },
+  "K11184": {
+    "id": "K11184",
+    "name": "catabolite repression HPr-like protein"
+  },
+  "K09762": {
+    "id": "K09762",
+    "name": "cell division protein WhiA"
+  },
+  "K06958": {
+    "id": "K06958",
+    "name": "RNase adapter protein RapZ"
+  },
+  "K00075": {
+    "id": "K00075",
+    "name": "UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98]"
+  },
+  "K01448": {
+    "id": "K01448",
+    "name": "N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]"
+  },
+  "K05879": {
+    "id": "K05879",
+    "name": "phosphoenolpyruvate---glycerone phosphotransferase subunit DhaL [EC:2.7.1.121]"
+  },
+  "K05878": {
+    "id": "K05878",
+    "name": "phosphoenolpyruvate---glycerone phosphotransferase subunit DhaK [EC:2.7.1.121]"
+  },
+  "K00917": {
+    "id": "K00917",
+    "name": "tagatose 6-phosphate kinase [EC:2.7.1.144]"
+  },
+  "K00854": {
+    "id": "K00854",
+    "name": "xylulokinase [EC:2.7.1.17]"
+  },
+  "K08302": {
+    "id": "K08302",
+    "name": "tagatose 1,6-diphosphate aldolase GatY/KbaY [EC:4.1.2.40]"
+  },
+  "K24707": {
+    "id": "K24707",
+    "name": "ribulokinase [EC:2.7.1.16]"
+  },
+  "K18910": {
+    "id": "K18910",
+    "name": "D-psicose/D-tagatose/L-ribulose 3-epimerase [EC:5.1.3.30 5.1.3.31]"
+  },
+  "K00033": {
+    "id": "K00033",
+    "name": "6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343]"
+  },
+  "K00065": {
+    "id": "K00065",
+    "name": "2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase [EC:1.1.1.127]"
+  },
+  "K01625": {
+    "id": "K01625",
+    "name": "2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase [EC:4.1.2.14 4.1.3.42]"
+  },
+  "K11690": {
+    "id": "K11690",
+    "name": "TRAP-type transport system large permease protein"
+  },
+  "K00004": {
+    "id": "K00004",
+    "name": "(R,R)-butanediol dehydrogenase / meso-butanediol dehydrogenase / diacetyl reductase [EC:1.1.1.4 1.1.1.- 1.1.1.303]"
+  },
+  "K02824": {
+    "id": "K02824",
+    "name": "uracil permease"
+  },
+  "K16919": {
+    "id": "K16919",
+    "name": "acetoin utilization transport system permease protein"
+  },
+  "K16921": {
+    "id": "K16921",
+    "name": "acetoin utilization transport system ATP-binding protein"
+  },
+  "K02358": {
+    "id": "K02358",
+    "name": "elongation factor Tu"
+  },
+  "K02992": {
+    "id": "K02992",
+    "name": "small subunit ribosomal protein S7"
+  },
+  "K02950": {
+    "id": "K02950",
+    "name": "small subunit ribosomal protein S12"
+  },
+  "K03046": {
+    "id": "K03046",
+    "name": "DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]"
+  },
+  "K03043": {
+    "id": "K03043",
+    "name": "DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]"
+  },
+  "K06726": {
+    "id": "K06726",
+    "name": "D-ribose pyranase [EC:5.4.99.62]"
+  },
+  "K17203": {
+    "id": "K17203",
+    "name": "erythritol transport system permease protein"
+  },
+  "K17204": {
+    "id": "K17204",
+    "name": "erythritol transport system ATP-binding protein"
+  },
+  "K17202": {
+    "id": "K17202",
+    "name": "erythritol transport system substrate-binding protein"
+  },
+  "K03604": {
+    "id": "K03604",
+    "name": "LacI family transcriptional regulator, purine nucleotide synthesis repressor"
+  },
+  "K02935": {
+    "id": "K02935",
+    "name": "large subunit ribosomal protein L7/L12"
+  },
+  "K02864": {
+    "id": "K02864",
+    "name": "large subunit ribosomal protein L10"
+  },
+  "K02863": {
+    "id": "K02863",
+    "name": "large subunit ribosomal protein L1"
+  },
+  "K02867": {
+    "id": "K02867",
+    "name": "large subunit ribosomal protein L11"
+  },
+  "K02601": {
+    "id": "K02601",
+    "name": "transcription termination/antitermination protein NusG"
+  },
+  "K03073": {
+    "id": "K03073",
+    "name": "preprotein translocase subunit SecE"
+  },
+  "K08641": {
+    "id": "K08641",
+    "name": "zinc D-Ala-D-Ala dipeptidase [EC:3.4.13.22]"
+  },
+  "K04567": {
+    "id": "K04567",
+    "name": "lysyl-tRNA synthetase, class II [EC:6.1.1.6]"
+  },
+  "K05540": {
+    "id": "K05540",
+    "name": "tRNA-dihydrouridine synthase B [EC:1.-.-.-]"
+  },
+  "K03525": {
+    "id": "K03525",
+    "name": "type III pantothenate kinase [EC:2.7.1.33]"
+  },
+  "K03524": {
+    "id": "K03524",
+    "name": "BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase [EC:6.3.4.15]"
+  },
+  "K00611": {
+    "id": "K00611",
+    "name": "ornithine carbamoyltransferase [EC:2.1.3.3]"
+  },
+  "K03437": {
+    "id": "K03437",
+    "name": "RNA methyltransferase, TrmH family"
+  },
+  "K00789": {
+    "id": "K00789",
+    "name": "S-adenosylmethionine synthetase [EC:2.5.1.6]"
+  },
+  "K08177": {
+    "id": "K08177",
+    "name": "MFS transporter, OFA family, oxalate/formate antiporter"
+  },
+  "K00790": {
+    "id": "K00790",
+    "name": "UDP-N-acetylglucosamine 1-carboxyvinyltransferase [EC:2.5.1.7]"
+  },
+  "K02120": {
+    "id": "K02120",
+    "name": "V/A-type H+/Na+-transporting ATPase subunit D"
+  },
+  "K02118": {
+    "id": "K02118",
+    "name": "V/A-type H+/Na+-transporting ATPase subunit B"
+  },
+  "K02117": {
+    "id": "K02117",
+    "name": "V/A-type H+/Na+-transporting ATPase subunit A [EC:7.1.2.2 7.2.2.1]"
+  },
+  "K02122": {
+    "id": "K02122",
+    "name": "V/A-type H+/Na+-transporting ATPase subunit F"
+  },
+  "K02119": {
+    "id": "K02119",
+    "name": "V/A-type H+/Na+-transporting ATPase subunit C"
+  },
+  "K02121": {
+    "id": "K02121",
+    "name": "V/A-type H+/Na+-transporting ATPase subunit E"
+  },
+  "K02124": {
+    "id": "K02124",
+    "name": "V/A-type H+/Na+-transporting ATPase subunit K"
+  },
+  "K02123": {
+    "id": "K02123",
+    "name": "V/A-type H+/Na+-transporting ATPase subunit I"
+  },
+  "K03216": {
+    "id": "K03216",
+    "name": "tRNA (cytidine/uridine-2'-O-)-methyltransferase [EC:2.1.1.207]"
+  },
+  "K04655": {
+    "id": "K04655",
+    "name": "hydrogenase expression/formation protein HypE"
+  },
+  "K11991": {
+    "id": "K11991",
+    "name": "tRNA(adenine34) deaminase [EC:3.5.4.33]"
+  },
+  "K06133": {
+    "id": "K06133",
+    "name": "4'-phosphopantetheinyl transferase [EC:2.7.8.-]"
+  },
+  "K03856": {
+    "id": "K03856",
+    "name": "3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54]"
+  },
+  "K01735": {
+    "id": "K01735",
+    "name": "3-dehydroquinate synthase [EC:4.2.3.4]"
+  },
+  "K10540": {
+    "id": "K10540",
+    "name": "methyl-galactoside transport system substrate-binding protein"
+  },
+  "K10541": {
+    "id": "K10541",
+    "name": "methyl-galactoside transport system permease protein"
+  },
+  "K10542": {
+    "id": "K10542",
+    "name": "methyl-galactoside transport system ATP-binding protein [EC:7.5.2.11]"
+  },
+  "K23509": {
+    "id": "K23509",
+    "name": "galactofuranose transport system permease protein"
+  },
+  "K03410": {
+    "id": "K03410",
+    "name": "chemotaxis protein CheC"
+  },
+  "K04068": {
+    "id": "K04068",
+    "name": "anaerobic ribonucleoside-triphosphate reductase activating protein [EC:1.97.1.4]"
+  },
+  "K01262": {
+    "id": "K01262",
+    "name": "Xaa-Pro aminopeptidase [EC:3.4.11.9]"
+  },
+  "K12941": {
+    "id": "K12941",
+    "name": "aminobenzoyl-glutamate utilization protein B"
+  },
+  "K13280": {
+    "id": "K13280",
+    "name": "signal peptidase I [EC:3.4.21.89]"
+  },
+  "K07284": {
+    "id": "K07284",
+    "name": "sortase A [EC:3.4.22.70]"
+  },
+  "K21449": {
+    "id": "K21449",
+    "name": "trimeric autotransporter adhesin"
+  },
+  "K03439": {
+    "id": "K03439",
+    "name": "tRNA (guanine-N7-)-methyltransferase [EC:2.1.1.33]"
+  },
+  "K21023": {
+    "id": "K21023",
+    "name": "diguanylate cyclase [EC:2.7.7.65]"
+  },
+  "K14475": {
+    "id": "K14475",
+    "name": "inhibitor of cysteine peptidase"
+  },
+  "K01681": {
+    "id": "K01681",
+    "name": "aconitate hydratase [EC:4.2.1.3]"
+  },
+  "K01715": {
+    "id": "K01715",
+    "name": "short-chain-enoyl-CoA hydratase [EC:4.2.1.150]"
+  },
+  "K10112": {
+    "id": "K10112",
+    "name": "multiple sugar transport system ATP-binding protein [EC:7.5.2.-]"
+  },
+  "K07056": {
+    "id": "K07056",
+    "name": "16S rRNA (cytidine1402-2'-O)-methyltransferase [EC:2.1.1.198]"
+  },
+  "K15460": {
+    "id": "K15460",
+    "name": "tRNA1Val (adenine37-N6)-methyltransferase [EC:2.1.1.223]"
+  },
+  "K02341": {
+    "id": "K02341",
+    "name": "DNA polymerase III subunit delta' [EC:2.7.7.7]"
+  },
+  "K01585": {
+    "id": "K01585",
+    "name": "arginine decarboxylase [EC:4.1.1.19]"
+  },
+  "K01810": {
+    "id": "K01810",
+    "name": "glucose-6-phosphate isomerase [EC:5.3.1.9]"
+  },
+  "K01243": {
+    "id": "K01243",
+    "name": "adenosylhomocysteine nucleosidase [EC:3.2.2.9]"
+  },
+  "K02563": {
+    "id": "K02563",
+    "name": "UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227]"
+  },
+  "K02503": {
+    "id": "K02503",
+    "name": "histidine triad (HIT) family protein [EC:3.9.1.-]"
+  },
+  "K07709": {
+    "id": "K07709",
+    "name": "two-component system, NtrC family, sensor histidine kinase HydH [EC:2.7.13.3]"
+  },
+  "K12308": {
+    "id": "K12308",
+    "name": "beta-galactosidase [EC:3.2.1.23]"
+  },
+  "K10190": {
+    "id": "K10190",
+    "name": "lactose/L-arabinose transport system permease protein"
+  },
+  "K10189": {
+    "id": "K10189",
+    "name": "lactose/L-arabinose transport system permease protein"
+  },
+  "K10188": {
+    "id": "K10188",
+    "name": "lactose/L-arabinose transport system substrate-binding protein"
+  },
+  "K02099": {
+    "id": "K02099",
+    "name": "AraC family transcriptional regulator, arabinose operon regulatory protein"
+  },
+  "K12511": {
+    "id": "K12511",
+    "name": "tight adherence protein C"
+  },
+  "K12510": {
+    "id": "K12510",
+    "name": "tight adherence protein B"
+  },
+  "K02283": {
+    "id": "K02283",
+    "name": "pilus assembly protein CpaF [EC:7.4.2.8]"
+  },
+  "K06317": {
+    "id": "K06317",
+    "name": "inhibitor of the pro-sigma K processing machinery"
+  },
+  "K01493": {
+    "id": "K01493",
+    "name": "dCMP deaminase [EC:3.5.4.12]"
+  },
+  "K00761": {
+    "id": "K00761",
+    "name": "uracil phosphoribosyltransferase [EC:2.4.2.9]"
+  },
+  "K07566": {
+    "id": "K07566",
+    "name": "L-threonylcarbamoyladenylate synthase [EC:2.7.7.87]"
+  },
+  "K16511": {
+    "id": "K16511",
+    "name": "adapter protein MecA 1/2"
+  },
+  "K11068": {
+    "id": "K11068",
+    "name": "hemolysin III"
+  },
+  "K07461": {
+    "id": "K07461",
+    "name": "putative endonuclease"
+  },
+  "K01870": {
+    "id": "K01870",
+    "name": "isoleucyl-tRNA synthetase [EC:6.1.1.5]"
+  },
+  "K01875": {
+    "id": "K01875",
+    "name": "seryl-tRNA synthetase [EC:6.1.1.11]"
+  },
+  "K03497": {
+    "id": "K03497",
+    "name": "ParB family transcriptional regulator, chromosome partitioning protein"
+  },
+  "K03496": {
+    "id": "K03496",
+    "name": "chromosome partitioning protein"
+  },
+  "K03501": {
+    "id": "K03501",
+    "name": "16S rRNA (guanine527-N7)-methyltransferase [EC:2.1.1.170]"
+  },
+  "K03495": {
+    "id": "K03495",
+    "name": "tRNA uridine 5-carboxymethylaminomethyl modification enzyme"
+  },
+  "K03650": {
+    "id": "K03650",
+    "name": "tRNA modification GTPase [EC:3.6.-.-]"
+  },
+  "K06346": {
+    "id": "K06346",
+    "name": "spoIIIJ-associated protein"
+  },
+  "K03217": {
+    "id": "K03217",
+    "name": "YidC/Oxa1 family membrane protein insertase"
+  },
+  "K03536": {
+    "id": "K03536",
+    "name": "ribonuclease P protein component [EC:3.1.26.5]"
+  }
+}
